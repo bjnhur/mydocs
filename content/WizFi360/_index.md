@@ -4,7 +4,7 @@ title: WizFi360
 weight: 5
 chapter: true
 #pre: "<b>1. </b>"
-pre: "<i class='fab fa-github'></i> "
+pre: "<i class='fas fa-wifi'></i> "
 menuTitle: Learn WizFi360
 ---
 

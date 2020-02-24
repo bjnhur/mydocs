@@ -3,7 +3,7 @@ title = "Blog"
 date = 2020-02-19T20:01:43+09:00
 weight = 5
 chapter = false
-pre = "<b>1. </b>"
+pre = "<i class='fas fa-book'></i> "
 description = "블로그 글 모음 - 기술, 생각"
 +++
 

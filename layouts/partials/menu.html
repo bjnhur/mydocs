@@ -16,7 +16,6 @@
           {{range .Site.Home.Sections}}
           {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks}}
           {{end}}
-
     </ul>
 
     {{ $disableShortcutsTitle := .Site.Params.DisableShortcutsTitle}}
@@ -96,15 +95,14 @@
         {{if eq .File.UniqueID $currentNode.File.UniqueID}}active{{end}}
         {{if .Params.alwaysopen}}parent{{end}}
         ">
+        {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
       <a href="{{.RelPermalink}}">
+          {{ if ne $numberOfPages 0 }}<i class="fas fa-folder-plus"></i>{{else}}<i class="fas fa-folder-open"></i>{{end}}
           {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}
-          {{ if $showvisitedlinks}}
-            <i class="fas fa-check read-icon"></i>
-          {{ end }}
+          {{ if $showvisitedlinks}}<i class="fas fa-check read-icon"></i>{{end}}
       </a>
-      {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
       {{ if ne $numberOfPages 0 }}
-        <ul>
+        <ul class="ppp">
           {{ $currentNode.Scratch.Set "pages" .Pages }}
           {{ if .Sections}}
             {{ $currentNode.Scratch.Set "pages" (.Pages | union .Sections) }}
@@ -123,9 +121,10 @@
   {{else}}
     {{ if not .Params.Hidden }}
       <li data-nav-id="{{.RelPermalink}}" title="{{.Title}}" class="dd-item {{if eq .File.UniqueID $currentNode.File.UniqueID}}active{{end}}">
-        <a href="{{ .RelPermalink}}">
-        {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}
-        {{ if $showvisitedlinks}}<i class="fas fa-check read-icon"></i>{{end}}
+      <a href="{{ .RelPermalink}}">
+          <i class="fas fa-file-alt"></i>
+          {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}
+          {{ if $showvisitedlinks}}<i class="fas fa-check read-icon"></i>{{end}}
         </a>
     </li>
      {{ end }}
