@@ -13,20 +13,20 @@
     <title>GoLang Korea :: DevBJ.com</title>
 
     
-    <link href="/css/nucleus.css?1582525746" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1582525746" rel="stylesheet">
-    <link href="/css/hybrid.css?1582525746" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1582525746" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1582525746" rel="stylesheet">
-    <link href="/css/auto-complete.css?1582525746" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1582525746" rel="stylesheet">
-    <link href="/css/theme.css?1582525746" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1582525746" rel="stylesheet">
+    <link href="/css/nucleus.css?1582544975" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1582544975" rel="stylesheet">
+    <link href="/css/hybrid.css?1582544975" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1582544975" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1582544975" rel="stylesheet">
+    <link href="/css/auto-complete.css?1582544975" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1582544975" rel="stylesheet">
+    <link href="/css/theme.css?1582544975" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1582544975" rel="stylesheet">
     
-      <link href="/css/theme-blue.css?1582525746" rel="stylesheet">
+      <link href="/css/theme-blue.css?1582544975" rel="stylesheet">
     
 
-    <script src="/js/jquery-3.3.1.min.js?1582525746"></script>
+    <script src="/js/jquery-3.3.1.min.js?1582544975"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -42,6 +42,20 @@
 @media (min-width:800px) { .adslot_1 { width: 728px; height: 90px; } }
 #adsection {
     margin:1em;
+}
+
+#sidebar ul.topics > li.parent > ul.ppp > li.active > ul.ppp {
+    display: block;
+}
+#sidebar ul.topics > li.parent > ul.ppp > li.parent > ul.ppp {
+    display: block;
+}
+#sidebar ul.topics > li.parent > ul.ppp > li > ul {
+    display: none;
+}
+ 
+#sidebar .dn {
+    display: none;
 }
 </style>
 <script data-ad-client="ca-pub-3059347231702682" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -64,14 +78,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1582525746"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1582525746"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1582544975"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1582544975"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/devbj.com\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1582525746"></script>
+<script type="text/javascript" src="/js/search.js?1582544975"></script>
 
 
 
@@ -93,15 +107,14 @@
         
         
         ">
+        
       <a href="/blog/">
-          <b>1. </b>Blog
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-folder-plus"></i>
+          <i class='fas fa-book'></i> Blog
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -121,13 +134,12 @@
         
         
         ">
+        
       <a href="/blog/thought/">
+          <i class="fas fa-folder-open"></i>
           <b>1. </b>Thought
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -143,9 +155,10 @@
   
     
       <li data-nav-id="/blog/2019-03-05-webserver-adafruit/" title="IPv6 WebServer example with WIZnet W6100 chip" class="dd-item ">
-        <a href="/blog/2019-03-05-webserver-adafruit/">
-        IPv6 WebServer example with WIZnet W6100 chip
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2019-03-05-webserver-adafruit/">
+          <i class="fas fa-file-alt"></i>
+          IPv6 WebServer example with WIZnet W6100 chip
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -162,9 +175,10 @@
   
     
       <li data-nav-id="/blog/2019-03-03-embeddedworld2019/" title="Embedded World 2019" class="dd-item ">
-        <a href="/blog/2019-03-03-embeddedworld2019/">
-        Embedded World 2019
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2019-03-03-embeddedworld2019/">
+          <i class="fas fa-file-alt"></i>
+          Embedded World 2019
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -181,9 +195,10 @@
   
     
       <li data-nav-id="/blog/2019-01-21-arduino-ethernet-products/" title="The real products based on Arduino-Ethernet" class="dd-item ">
-        <a href="/blog/2019-01-21-arduino-ethernet-products/">
-        The real products based on Arduino-Ethernet
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2019-01-21-arduino-ethernet-products/">
+          <i class="fas fa-file-alt"></i>
+          The real products based on Arduino-Ethernet
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -200,9 +215,10 @@
   
     
       <li data-nav-id="/blog/2019-01-15-arduino-ethernet-shield-list/" title="List of Arduino Ethernet Shield products" class="dd-item ">
-        <a href="/blog/2019-01-15-arduino-ethernet-shield-list/">
-        List of Arduino Ethernet Shield products
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2019-01-15-arduino-ethernet-shield-list/">
+          <i class="fas fa-file-alt"></i>
+          List of Arduino Ethernet Shield products
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -219,9 +235,10 @@
   
     
       <li data-nav-id="/blog/2019-01-15-arduino-ethernet/" title="The state of Arduino Ethernet Library" class="dd-item ">
-        <a href="/blog/2019-01-15-arduino-ethernet/">
-        The state of Arduino Ethernet Library
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2019-01-15-arduino-ethernet/">
+          <i class="fas fa-file-alt"></i>
+          The state of Arduino Ethernet Library
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -238,9 +255,10 @@
   
     
       <li data-nav-id="/blog/2016-08-05-drama/" title="드라마 - 미드" class="dd-item ">
-        <a href="/blog/2016-08-05-drama/">
-        드라마 - 미드
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2016-08-05-drama/">
+          <i class="fas fa-file-alt"></i>
+          드라마 - 미드
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -257,9 +275,10 @@
   
     
       <li data-nav-id="/blog/2016-09-07-w5500-drivers/" title="W5500 drivers" class="dd-item ">
-        <a href="/blog/2016-09-07-w5500-drivers/">
-        W5500 drivers
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2016-09-07-w5500-drivers/">
+          <i class="fas fa-file-alt"></i>
+          W5500 drivers
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -276,9 +295,10 @@
   
     
       <li data-nav-id="/blog/2016-08-31-torrent/" title="추천 토렌트 사이트 - torrent, 자료" class="dd-item ">
-        <a href="/blog/2016-08-31-torrent/">
-        추천 토렌트 사이트 - torrent, 자료
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2016-08-31-torrent/">
+          <i class="fas fa-file-alt"></i>
+          추천 토렌트 사이트 - torrent, 자료
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -295,9 +315,10 @@
   
     
       <li data-nav-id="/blog/2016-08-01-english/" title="영어 공부" class="dd-item ">
-        <a href="/blog/2016-08-01-english/">
-        영어 공부
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2016-08-01-english/">
+          <i class="fas fa-file-alt"></i>
+          영어 공부
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -314,9 +335,10 @@
   
     
       <li data-nav-id="/blog/2016-07-26-makefile/" title="Makefile 분석" class="dd-item ">
-        <a href="/blog/2016-07-26-makefile/">
-        Makefile 분석
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2016-07-26-makefile/">
+          <i class="fas fa-file-alt"></i>
+          Makefile 분석
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -333,9 +355,10 @@
   
     
       <li data-nav-id="/blog/2016-07-21-move-to-jekyll/" title="지킬 블로그 만들기 - jekyll, github, github pages" class="dd-item ">
-        <a href="/blog/2016-07-21-move-to-jekyll/">
-        지킬 블로그 만들기 - jekyll, github, github pages
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/2016-07-21-move-to-jekyll/">
+          <i class="fas fa-file-alt"></i>
+          지킬 블로그 만들기 - jekyll, github, github pages
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -352,9 +375,10 @@
   
     
       <li data-nav-id="/blog/button/" title="Button" class="dd-item ">
-        <a href="/blog/button/">
-        Button
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/button/">
+          <i class="fas fa-file-alt"></i>
+          Button
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -371,9 +395,10 @@
   
     
       <li data-nav-id="/blog/expand/" title="Expand" class="dd-item ">
-        <a href="/blog/expand/">
-        Expand
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/expand/">
+          <i class="fas fa-file-alt"></i>
+          Expand
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -390,9 +415,10 @@
   
     
       <li data-nav-id="/blog/mermaid/" title="Mermaid" class="dd-item ">
-        <a href="/blog/mermaid/">
-        Mermaid
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/mermaid/">
+          <i class="fas fa-file-alt"></i>
+          Mermaid
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -409,9 +435,10 @@
   
     
       <li data-nav-id="/blog/notionpagecopy/" title="노션 페이지 복사하기" class="dd-item ">
-        <a href="/blog/notionpagecopy/">
-        노션 페이지 복사하기
-        <i class="fas fa-check read-icon"></i>
+      <a href="/blog/notionpagecopy/">
+          <i class="fas fa-file-alt"></i>
+          노션 페이지 복사하기
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -438,15 +465,14 @@
         
         
         ">
+        
       <a href="/wizfi360/">
-          <i class='fab fa-github'></i> Learn WizFi360
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-folder-plus"></i>
+          <i class='fas fa-wifi'></i> Learn WizFi360
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -466,13 +492,12 @@
         
         
         ">
+        
       <a href="/wizfi360/basics/">
+          <i class="fas fa-folder-open"></i>
           <b>1. </b>Basics
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -488,9 +513,10 @@
   
     
       <li data-nav-id="/wizfi360/w600/" title="W600" class="dd-item ">
-        <a href="/wizfi360/w600/">
-        W600
-        <i class="fas fa-check read-icon"></i>
+      <a href="/wizfi360/w600/">
+          <i class="fas fa-file-alt"></i>
+          W600
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -517,15 +543,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/">
+          <i class="fas fa-folder-plus"></i>
           <i class='fab fa-github'></i> About Learn Theme
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -545,15 +570,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/basics/">
+          <i class="fas fa-folder-plus"></i>
           <b>1. </b>Basics
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -573,13 +597,12 @@
         
         
         ">
+        
       <a href="/hugolearntheme/basics/requirements/">
+          <i class="fas fa-folder-open"></i>
           Requirements
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -599,13 +622,12 @@
         
         
         ">
+        
       <a href="/hugolearntheme/basics/installation/">
+          <i class="fas fa-folder-open"></i>
           Installation
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -625,13 +647,12 @@
         
         
         ">
+        
       <a href="/hugolearntheme/basics/configuration/">
+          <i class="fas fa-folder-open"></i>
           Configuration
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -651,13 +672,12 @@
         
         
         ">
+        
       <a href="/hugolearntheme/basics/style-customization/">
+          <i class="fas fa-folder-open"></i>
           Style customization
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -685,15 +705,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/cont/">
+          <i class="fas fa-folder-plus"></i>
           <b>2. </b>Content
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -713,13 +732,12 @@
         
         
         ">
+        
       <a href="/hugolearntheme/cont/pages/">
+          <i class="fas fa-folder-open"></i>
           Pages organization
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -739,13 +757,12 @@
         
         
         ">
+        
       <a href="/hugolearntheme/cont/i18n/">
+          <i class="fas fa-folder-open"></i>
           Multilingual and i18n
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -761,9 +778,10 @@
   
     
       <li data-nav-id="/hugolearntheme/cont/archetypes/" title="Archetypes" class="dd-item ">
-        <a href="/hugolearntheme/cont/archetypes/">
-        Archetypes
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/cont/archetypes/">
+          <i class="fas fa-file-alt"></i>
+          Archetypes
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -780,9 +798,10 @@
   
     
       <li data-nav-id="/hugolearntheme/cont/markdown/" title="Markdown syntax" class="dd-item ">
-        <a href="/hugolearntheme/cont/markdown/">
-        Markdown syntax
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/cont/markdown/">
+          <i class="fas fa-file-alt"></i>
+          Markdown syntax
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -799,9 +818,10 @@
   
     
       <li data-nav-id="/hugolearntheme/cont/menushortcuts/" title="Menu extra shortcuts" class="dd-item ">
-        <a href="/hugolearntheme/cont/menushortcuts/">
-        Menu extra shortcuts
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/cont/menushortcuts/">
+          <i class="fas fa-file-alt"></i>
+          Menu extra shortcuts
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -818,9 +838,10 @@
   
     
       <li data-nav-id="/hugolearntheme/cont/icons/" title="Icons and logos" class="dd-item ">
-        <a href="/hugolearntheme/cont/icons/">
-        Icons and logos
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/cont/icons/">
+          <i class="fas fa-file-alt"></i>
+          Icons and logos
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -837,9 +858,10 @@
   
     
       <li data-nav-id="/hugolearntheme/cont/tags/" title="Tags" class="dd-item ">
-        <a href="/hugolearntheme/cont/tags/">
-        Tags
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/cont/tags/">
+          <i class="fas fa-file-alt"></i>
+          Tags
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -868,15 +890,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/">
+          <i class="fas fa-folder-plus"></i>
           <b>3. </b>Shortcodes
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -896,15 +917,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/children/">
+          <i class="fas fa-folder-plus"></i>
           Children
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -924,15 +944,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/children/children-1/">
+          <i class="fas fa-folder-plus"></i>
           page 1
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -952,15 +971,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/children/children-1/children-1-1/">
+          <i class="fas fa-folder-plus"></i>
           page 1-1
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -980,15 +998,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/">
+          <i class="fas fa-folder-plus"></i>
           page 1-1-1
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -1008,15 +1025,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/">
+          <i class="fas fa-folder-plus"></i>
           page 1-1-1-1
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -1036,13 +1052,12 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/">
+          <i class="fas fa-folder-open"></i>
           page 1-1-1-1-1
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -1094,15 +1109,14 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/children/children-2/">
+          <i class="fas fa-folder-plus"></i>
           page 2
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
           
@@ -1116,9 +1130,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/children/children-2/test3/" title="page test 3" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/children/children-2/test3/">
-        page test 3
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/children/children-2/test3/">
+          <i class="fas fa-file-alt"></i>
+          page test 3
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1135,9 +1150,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/children/children-2/test3.fr/" title="page test 3" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/children/children-2/test3.fr/">
-        page test 3
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/children/children-2/test3.fr/">
+          <i class="fas fa-file-alt"></i>
+          page test 3
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1166,13 +1182,12 @@
         
         
         ">
+        
       <a href="/hugolearntheme/shortcodes/children/children-3/">
+          <i class="fas fa-folder-open"></i>
           page 3
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
-      
       
     </li>
   
@@ -1191,9 +1206,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/children/test/" title="page test" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/children/test/">
-        page test
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/children/test/">
+          <i class="fas fa-file-alt"></i>
+          page test
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1210,9 +1226,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/children/test.fr/" title="page test" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/children/test.fr/">
-        page test
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/children/test.fr/">
+          <i class="fas fa-file-alt"></i>
+          page test
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1237,9 +1254,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/attachments/" title="Attachments" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/attachments/">
-        Attachments
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/attachments/">
+          <i class="fas fa-file-alt"></i>
+          Attachments
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1256,9 +1274,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/button/" title="Button" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/button/">
-        Button
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/button/">
+          <i class="fas fa-file-alt"></i>
+          Button
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1275,9 +1294,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/expand/" title="Expand" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/expand/">
-        Expand
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/expand/">
+          <i class="fas fa-file-alt"></i>
+          Expand
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1294,9 +1314,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/mermaid/" title="Mermaid" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/mermaid/">
-        Mermaid
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/mermaid/">
+          <i class="fas fa-file-alt"></i>
+          Mermaid
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1313,9 +1334,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/notice/" title="Notice" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/notice/">
-        Notice
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/notice/">
+          <i class="fas fa-file-alt"></i>
+          Notice
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1332,9 +1354,10 @@
   
     
       <li data-nav-id="/hugolearntheme/shortcodes/siteparam/" title="Site param" class="dd-item ">
-        <a href="/hugolearntheme/shortcodes/siteparam/">
-        Site param
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/shortcodes/siteparam/">
+          <i class="fas fa-file-alt"></i>
+          Site param
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1359,9 +1382,10 @@
   
     
       <li data-nav-id="/hugolearntheme/mytips/" title="사용팁" class="dd-item ">
-        <a href="/hugolearntheme/mytips/">
-        사용팁
-        <i class="fas fa-check read-icon"></i>
+      <a href="/hugolearntheme/mytips/">
+          <i class="fas fa-file-alt"></i>
+          사용팁
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1388,15 +1412,14 @@
         active
         
         ">
+        
       <a href="/golangkorea/">
+          <i class="fas fa-folder-plus"></i>
           GoLang Korea
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
             
@@ -1416,15 +1439,14 @@
         
         
         ">
+        
       <a href="/golangkorea/go-start/">
+          <i class="fas fa-folder-plus"></i>
           Go 시작하기
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
           
@@ -1438,9 +1460,10 @@
   
     
       <li data-nav-id="/golangkorea/go-start/getting-start/" title="Go언어 시작하기" class="dd-item ">
-        <a href="/golangkorea/go-start/getting-start/">
-        Go언어 시작하기
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/go-start/getting-start/">
+          <i class="fas fa-file-alt"></i>
+          Go언어 시작하기
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1457,9 +1480,10 @@
   
     
       <li data-nav-id="/golangkorea/go-start/feature/" title="Go의 주요 특징들" class="dd-item ">
-        <a href="/golangkorea/go-start/feature/">
-        Go의 주요 특징들
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/go-start/feature/">
+          <i class="fas fa-file-alt"></i>
+          Go의 주요 특징들
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1476,9 +1500,10 @@
   
     
       <li data-nav-id="/golangkorea/go-start/object-oriented/" title="Go와 객체지향" class="dd-item ">
-        <a href="/golangkorea/go-start/object-oriented/">
-        Go와 객체지향
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/go-start/object-oriented/">
+          <i class="fas fa-file-alt"></i>
+          Go와 객체지향
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1507,15 +1532,14 @@
         
         
         ">
+        
       <a href="/golangkorea/go-walkthrough/">
+          <i class="fas fa-folder-plus"></i>
           Go 둘러보기
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
           
@@ -1529,9 +1553,10 @@
   
     
       <li data-nav-id="/golangkorea/go-walkthrough/bytes-strings-packages/" title="Go 둘러보기 - bytes &#43; strings 패키지" class="dd-item ">
-        <a href="/golangkorea/go-walkthrough/bytes-strings-packages/">
-        Go 둘러보기 - bytes &#43; strings 패키지
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/go-walkthrough/bytes-strings-packages/">
+          <i class="fas fa-file-alt"></i>
+          Go 둘러보기 - bytes &#43; strings 패키지
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1548,9 +1573,10 @@
   
     
       <li data-nav-id="/golangkorea/go-walkthrough/encoding-json-package/" title="Go 둘러보기 - encoding/json 패키지" class="dd-item ">
-        <a href="/golangkorea/go-walkthrough/encoding-json-package/">
-        Go 둘러보기 - encoding/json 패키지
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/go-walkthrough/encoding-json-package/">
+          <i class="fas fa-file-alt"></i>
+          Go 둘러보기 - encoding/json 패키지
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1567,9 +1593,10 @@
   
     
       <li data-nav-id="/golangkorea/go-walkthrough/encoding-package/" title="Go 둘러보기 - encoding 패키지" class="dd-item ">
-        <a href="/golangkorea/go-walkthrough/encoding-package/">
-        Go 둘러보기 - encoding 패키지
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/go-walkthrough/encoding-package/">
+          <i class="fas fa-file-alt"></i>
+          Go 둘러보기 - encoding 패키지
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1586,9 +1613,10 @@
   
     
       <li data-nav-id="/golangkorea/go-walkthrough/io-package/" title="Go 둘러보기 - io 패키지" class="dd-item ">
-        <a href="/golangkorea/go-walkthrough/io-package/">
-        Go 둘러보기 - io 패키지
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/go-walkthrough/io-package/">
+          <i class="fas fa-file-alt"></i>
+          Go 둘러보기 - io 패키지
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1617,15 +1645,14 @@
         
         
         ">
+        
       <a href="/golangkorea/golang-internals/">
+          <i class="fas fa-folder-plus"></i>
           Golang의 내부
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
           
@@ -1639,9 +1666,10 @@
   
     
       <li data-nav-id="/golangkorea/golang-internals/part1/" title="Golang의 내부, 1부: 주요 컨셉트와 프로젝트 구조" class="dd-item ">
-        <a href="/golangkorea/golang-internals/part1/">
-        Golang의 내부, 1부: 주요 컨셉트와 프로젝트 구조
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/golang-internals/part1/">
+          <i class="fas fa-file-alt"></i>
+          Golang의 내부, 1부: 주요 컨셉트와 프로젝트 구조
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1658,9 +1686,10 @@
   
     
       <li data-nav-id="/golangkorea/golang-internals/part2/" title="Golang의 내부, 2부: Go 컴파일러 들여다 보기" class="dd-item ">
-        <a href="/golangkorea/golang-internals/part2/">
-        Golang의 내부, 2부: Go 컴파일러 들여다 보기
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/golang-internals/part2/">
+          <i class="fas fa-file-alt"></i>
+          Golang의 내부, 2부: Go 컴파일러 들여다 보기
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1677,9 +1706,10 @@
   
     
       <li data-nav-id="/golangkorea/golang-internals/part3/" title="Golang의 내부, 3부: 링커, 오브젝트 파일, 그리고 재배치" class="dd-item ">
-        <a href="/golangkorea/golang-internals/part3/">
-        Golang의 내부, 3부: 링커, 오브젝트 파일, 그리고 재배치
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/golang-internals/part3/">
+          <i class="fas fa-file-alt"></i>
+          Golang의 내부, 3부: 링커, 오브젝트 파일, 그리고 재배치
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1696,9 +1726,10 @@
   
     
       <li data-nav-id="/golangkorea/golang-internals/part4/" title="Golang의 내부, 4부: 오브젝트 파일, 그리고 함수 메타데이터" class="dd-item ">
-        <a href="/golangkorea/golang-internals/part4/">
-        Golang의 내부, 4부: 오브젝트 파일, 그리고 함수 메타데이터
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/golang-internals/part4/">
+          <i class="fas fa-file-alt"></i>
+          Golang의 내부, 4부: 오브젝트 파일, 그리고 함수 메타데이터
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1715,9 +1746,10 @@
   
     
       <li data-nav-id="/golangkorea/golang-internals/part5/" title="Golang의 내부, 5부: 런타임 부트스트랩" class="dd-item ">
-        <a href="/golangkorea/golang-internals/part5/">
-        Golang의 내부, 5부: 런타임 부트스트랩
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/golang-internals/part5/">
+          <i class="fas fa-file-alt"></i>
+          Golang의 내부, 5부: 런타임 부트스트랩
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1734,9 +1766,10 @@
   
     
       <li data-nav-id="/golangkorea/golang-internals/part6/" title="Golang의 내부, 6부: 부트스트래핑과 메모리 할당자" class="dd-item ">
-        <a href="/golangkorea/golang-internals/part6/">
-        Golang의 내부, 6부: 부트스트래핑과 메모리 할당자
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/golang-internals/part6/">
+          <i class="fas fa-file-alt"></i>
+          Golang의 내부, 6부: 부트스트래핑과 메모리 할당자
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1753,9 +1786,10 @@
   
     
       <li data-nav-id="/golangkorea/golang-internals/resources/" title="Golang의 내부, 0부: 부록" class="dd-item ">
-        <a href="/golangkorea/golang-internals/resources/">
-        Golang의 내부, 0부: 부록
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/golang-internals/resources/">
+          <i class="fas fa-file-alt"></i>
+          Golang의 내부, 0부: 부록
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1784,15 +1818,14 @@
         
         
         ">
+        
       <a href="/golangkorea/hugo-intro/">
+          <i class="fas fa-folder-plus"></i>
           Hugo 입문 - 개요
-          
-            <i class="fas fa-check read-icon"></i>
-          
+          <i class="fas fa-check read-icon"></i>
       </a>
       
-      
-        <ul>
+        <ul class="ppp">
           
           
           
@@ -1806,9 +1839,10 @@
   
     
       <li data-nav-id="/golangkorea/hugo-intro/getting-started/" title="시리즈 #1 - Hugo 시작하기" class="dd-item ">
-        <a href="/golangkorea/hugo-intro/getting-started/">
-        시리즈 #1 - Hugo 시작하기
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/hugo-intro/getting-started/">
+          <i class="fas fa-file-alt"></i>
+          시리즈 #1 - Hugo 시작하기
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1825,9 +1859,10 @@
   
     
       <li data-nav-id="/golangkorea/hugo-intro/content-basic/" title="시리즈 #2 - 컨텐츠 제작 기초" class="dd-item ">
-        <a href="/golangkorea/hugo-intro/content-basic/">
-        시리즈 #2 - 컨텐츠 제작 기초
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/hugo-intro/content-basic/">
+          <i class="fas fa-file-alt"></i>
+          시리즈 #2 - 컨텐츠 제작 기초
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1844,9 +1879,10 @@
   
     
       <li data-nav-id="/golangkorea/hugo-intro/theme-customizing/" title="시리즈 #3 - 사이트 테마 개발하기" class="dd-item ">
-        <a href="/golangkorea/hugo-intro/theme-customizing/">
-        시리즈 #3 - 사이트 테마 개발하기
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/hugo-intro/theme-customizing/">
+          <i class="fas fa-file-alt"></i>
+          시리즈 #3 - 사이트 테마 개발하기
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1863,9 +1899,10 @@
   
     
       <li data-nav-id="/golangkorea/hugo-intro/taxonomy-basic/" title="시리즈 #4 - 분류(Taxonomy)기능 사용하기" class="dd-item ">
-        <a href="/golangkorea/hugo-intro/taxonomy-basic/">
-        시리즈 #4 - 분류(Taxonomy)기능 사용하기
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/hugo-intro/taxonomy-basic/">
+          <i class="fas fa-file-alt"></i>
+          시리즈 #4 - 분류(Taxonomy)기능 사용하기
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1882,9 +1919,10 @@
   
     
       <li data-nav-id="/golangkorea/hugo-intro/how-to-contribute-content/" title="시리즈 #5 - 사이트에 블로그 올리는 방법" class="dd-item ">
-        <a href="/golangkorea/hugo-intro/how-to-contribute-content/">
-        시리즈 #5 - 사이트에 블로그 올리는 방법
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/hugo-intro/how-to-contribute-content/">
+          <i class="fas fa-file-alt"></i>
+          시리즈 #5 - 사이트에 블로그 올리는 방법
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1909,9 +1947,10 @@
   
     
       <li data-nav-id="/golangkorea/structuring-applications-in-go/" title="Go에서 애플리케이션 설계하기" class="dd-item ">
-        <a href="/golangkorea/structuring-applications-in-go/">
-        Go에서 애플리케이션 설계하기
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/structuring-applications-in-go/">
+          <i class="fas fa-file-alt"></i>
+          Go에서 애플리케이션 설계하기
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1928,9 +1967,10 @@
   
     
       <li data-nav-id="/golangkorea/vim-go/" title="vim-go를 이용한 go 개발 환경 구축" class="dd-item ">
-        <a href="/golangkorea/vim-go/">
-        vim-go를 이용한 go 개발 환경 구축
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/vim-go/">
+          <i class="fas fa-file-alt"></i>
+          vim-go를 이용한 go 개발 환경 구축
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1947,9 +1987,10 @@
   
     
       <li data-nav-id="/golangkorea/tdd-with-golang/" title="Golang 프로젝트에 TDD 도입하기" class="dd-item ">
-        <a href="/golangkorea/tdd-with-golang/">
-        Golang 프로젝트에 TDD 도입하기
-        <i class="fas fa-check read-icon"></i>
+      <a href="/golangkorea/tdd-with-golang/">
+          <i class="fas fa-file-alt"></i>
+          Golang 프로젝트에 TDD 도입하기
+          <i class="fas fa-check read-icon"></i>
         </a>
     </li>
      
@@ -1965,7 +2006,6 @@
  
 
           
-
     </ul>
 
     
@@ -3549,19 +3589,19 @@ section ::
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1582525746"></script>
-    <script src="/js/perfect-scrollbar.min.js?1582525746"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1582525746"></script>
-    <script src="/js/jquery.sticky.js?1582525746"></script>
-    <script src="/js/featherlight.min.js?1582525746"></script>
-    <script src="/js/highlight.pack.js?1582525746"></script>
+    <script src="/js/clipboard.min.js?1582544975"></script>
+    <script src="/js/perfect-scrollbar.min.js?1582544975"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1582544975"></script>
+    <script src="/js/jquery.sticky.js?1582544975"></script>
+    <script src="/js/featherlight.min.js?1582544975"></script>
+    <script src="/js/highlight.pack.js?1582544975"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1582525746"></script>
-    <script src="/js/learn.js?1582525746"></script>
-    <script src="/js/hugo-learn.js?1582525746"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1582544975"></script>
+    <script src="/js/learn.js?1582544975"></script>
+    <script src="/js/hugo-learn.js?1582544975"></script>
 
-    <link href="/mermaid/mermaid.css?1582525746" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1582525746"></script>
+    <link href="/mermaid/mermaid.css?1582544975" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1582544975"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
