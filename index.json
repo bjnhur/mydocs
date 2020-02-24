@@ -123,7 +123,7 @@
 	"title": "Blog",
 	"tags": [],
 	"description": "블로그 글 모음 - 기술, 생각",
-	"content": "블로그 글 모음 글 목록  Thought  Chapter 1 나의생각 북마크 정리 [서버] postman tutorial 및 사.. : 네이버블로그 한글은 노토산스, 영문/숫자는 다른 폰트로 해주세요\u0026hellip;👀 (feat. unicode) | 필오의 개발일지\n   IPv6 WebServer example with WIZnet W6100 chip  (Modified) 2019-03-03 WebServer Example WebServer-Adafruit (https://github.com/WIZnet-ArduinoEthernet/WebServer-Adafruit) W6100의 IPv4, IPv6 Dual Stack을 이용한 WebServer Example 입니다. Browser로 접속하면 Host의 IPv4 또는 IPv6 주소가 Adafruit의 OLED SSD130\n   Embedded World 2019  (Modified) 2019-03-03 MCU 마이크로칩 클라우드 연동 모듈 신규 출시 30초만에 구성하는 클라우드 솔루션!! 이렇게 광고중 WiFi 모듈을 내장하고, 각 클라우드별 backend reference 를 기본 제공 쉽고 빠른\n   The real products based on Arduino-Ethernet  (Modified) 2019-01-21 Value Added Products based on Arduino Ethernet Shield Arduino Adafruit Industries Sfera Labs S.r.l. DFRobot Elektronik Hannes Jochriem Parallax Inc Electric Imp Controllino Industruino KMP Electronics Ltd mikroe Tindie Arduino Ethernet을 기반으로 한 실제 상용화된 제품들을 소개해 본다. Value Added Products based on Arduino Ethernet Shield\n   List of Arduino Ethernet Shield products  (Modified) 2019-01-15 W6100 W5500 W5100S W5100 W5200 Ethernet Shield List What is the \u0026ldquo;Ethernet Shield\u0026rdquo;? The Arduino Ethernet Shield connects your Arduino to the internet in mere minutes. Just plug this module onto your Arduino board, connect it to your network with an RJ45 cable (not included) and follow a few simple instructions to start controlling your world through the internet. from Ethernet Shield WIZnet - W5100, W5200, W5500, W5100S, W6100 W6100 Name Maker Chipset Product link W5500 Name Maker Chipset Product link ARDUINO MKR ETH SHIELD Arduino W5500 Product Link W5500 Ethernet Shield S(secure) EWBM W5500 Product Link Arduino Ethernet Shield 2 Arduino W5500 Product Link W5500 Ethernet Shield WIZnet W5500 Product Link SweetPea UnoNet+ : Ethernet and NFC in one board ElectronicSweetpeas W5500 Product Link POE W5500 Ethernet Shield Iteadstudio W5500 Product Link W5500 Ethernet Shield v1.\n   The state of Arduino Ethernet Library  (Modified) 2019-01-15 최근 Arduino Ethernet Library 업데이트 내용과 유용한 몇개의 라이브러리와 관련 예제를 정리해 본다. 라이브러리 정보 최근 업데이트 된 라이브러리 Arduino Ethernet Library v2.0 - Arduino official Runtime\n   드라마 - 미드  (수정시간) 2016-09-21 미드 House of cards - 하우스 오브 카드 Game of thrones - 왕좌의 게임 실리콘밸리 - Silicon Valley 슈츠 - Suits 지금까지 기억나는 추천 리스트 정리, 한편씩만 본 것들은 배제 미드 실\n   W5500 drivers  (수정시간) 2016-09-07 W5500 Driver open source projects - 오픈소스 AVR-ATmel LPC 시리즈 - NXP LPC11exxx \u0026hellip; W5500으로 이더넷 구현하기 (개발 환경 구축) STM32 시리즈 - ST Microelectronics PIC 시리즈 - Microchips PIC18, PIC24 \u0026hellip; PSoC 시리즈 - Cypress\n   추천 토렌트 사이트 - torrent, 자료  (수정시간) 2016-08-31 추천 토렌트 사이트 기타 회원가입 없고, 광고가 적은 것으로 추천 추천 토렌트 사이트 tvzil - https://tvzil.com 목록이 제일 잘 되어 있는 사이트 거의 완벽하다. 광고도 허용\n   영어 공부  (수정시간) 2016-09-21 영어학원 온라인영어 화상영어 블로그 만들면서 참고한 글을 정리해 본다. 영어학원 @수내역 랩스어학원 시간당 6만원 정도 물론 20시간씩 하면 15~20% 할\n   Makefile 분석  (수정시간) 2016-07-26 마크다운 연습도 할 겸 아래글 내용을 가져옵니다. 오래된 글이라 새로 적어두는 것도 의미가 있진 않을까요? 개인용 블로그이니 조금 이해해 주시길..\n   지킬 블로그 만들기 - jekyll, github, github pages  (수정시간) 2016-08-08 지킬 기반의 블로그 리소스 블로그 만들면서 참고한 글을 정리해 본다. 지킬 기반의 블로그 카카오 기술 블로그 - 베껴오고 있음. 개인적으로 css 이런것도\n   Button  Nice buttons on your page.\n   Expand  Displays an expandable/collapsible section of text on your page\n   Mermaid  Generation of diagram and flowchart from text in a similar manner as markdown\n   노션 페이지 복사하기  노션 페이지 복사하기\n   북마크 [서버] postman tutorial 및 사.. : 네이버블로그\n한글은 노토산스, 영문/숫자는 다른 폰트로 해주세요\u0026hellip;👀 (feat. unicode) | 필오의 개발일지\n"
+	"content": "블로그 글 모음 글 목록  Thought   IPv6 WebServer example with WIZnet W6100 chip   Embedded World 2019   The real products based on Arduino-Ethernet   List of Arduino Ethernet Shield products   The state of Arduino Ethernet Library   드라마 - 미드   W5500 drivers   추천 토렌트 사이트 - torrent, 자료   영어 공부   Makefile 분석   지킬 블로그 만들기 - jekyll, github, github pages   Button   Expand   Mermaid   노션 페이지 복사하기   [서버] postman tutorial 및 사.. : 네이버블로그\n한글은 노토산스, 영문/숫자는 다른 폰트로 해주세요\u0026hellip;👀 (feat. unicode) | 필오의 개발일지\n"
 },
 {
 	"uri": "https://devbj.com/blog/thought/",
@@ -469,14 +469,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/encoding/",
+	"uri": "https://devbj.com/categories/encoding/",
 	"title": "Encoding",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/encoding/",
+	"uri": "https://devbj.com/tags/encoding/",
 	"title": "Encoding",
 	"tags": [],
 	"description": "",
@@ -497,14 +497,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/bytes/",
+	"uri": "https://devbj.com/tags/bytes/",
 	"title": "Bytes",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/bytes/",
+	"uri": "https://devbj.com/categories/bytes/",
 	"title": "Bytes",
 	"tags": [],
 	"description": "",
@@ -847,14 +847,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/vim/",
+	"uri": "https://devbj.com/tags/vim/",
 	"title": "vim",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/vim/",
+	"uri": "https://devbj.com/categories/vim/",
 	"title": "vim",
 	"tags": [],
 	"description": "",
@@ -896,14 +896,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/unittest/",
+	"uri": "https://devbj.com/categories/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/unittest/",
+	"uri": "https://devbj.com/tags/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
@@ -998,7 +998,7 @@
 	"title": "Button",
 	"tags": [],
 	"description": "Nice buttons on your page.",
-	"content": "A button is a just a clickable button with optional icon.\n{{% button href=\u0026quot;https://getgrav.org/\u0026quot; %}}Get Grav{{% /button %}} {{% button href=\u0026quot;https://getgrav.org/\u0026quot; icon=\u0026quot;fas fa-download\u0026quot; %}}Get Grav with icon{{% /button %}} {{% button href=\u0026quot;https://getgrav.org/\u0026quot; icon=\u0026quot;fas fa-download\u0026quot; icon-position=\u0026quot;right\u0026quot; %}}Get Grav with icon right{{% /button %}}  Get Grav   Get Grav with icon  Get Grav with icon right   "
+	"content": "A button is a just a clickable button with optional icon.\n{{% button href=\u0026quot;https://getgrav.org/\u0026quot; %}}Get Grav{{% /button %}} {{% button href=\u0026quot;https://getgrav.org/\u0026quot; icon=\u0026quot;fas fa-download\u0026quot; %}}Get Grav with icon{{% /button %}} {{% button href=\u0026quot;https://getgrav.org/\u0026quot; icon=\u0026quot;fas fa-download\u0026quot; icon-position=\u0026quot;right\u0026quot; %}}Get Grav with icon right{{% /button %}}  Get Grav   Get Grav with icon  Get Grav with icon right   북마크  테스트     (adsbygoogle = window.adsbygoogle || []).push({});   아래글 문제 없이 "
 },
 {
 	"uri": "https://devbj.com/hugolearntheme/shortcodes/button/",
