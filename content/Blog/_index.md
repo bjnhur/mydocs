@@ -11,9 +11,7 @@ description = "블로그 글 모음 - 기술, 생각"
 
 ## 글 목록
 
-{{% children page="current" style="li" showhidden="true" description="true" depth=2 sort=none %}}
-
-## 북마크
+{{% children style="div" depth="999" %}}
 
 [[서버] postman tutorial 및 사.. : 네이버블로그](https://www.notion.so/postman-tutorial-46376d4b5b784221b71d5bc29baa2fa3)
 
