@@ -462,14 +462,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/encoding/</loc>
+    <loc>https://devbj.com/tags/encoding/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/encoding/</loc>
+    <loc>https://devbj.com/categories/encoding/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -490,14 +490,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/bytes/</loc>
+    <loc>https://devbj.com/categories/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/bytes/</loc>
+    <loc>https://devbj.com/tags/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
