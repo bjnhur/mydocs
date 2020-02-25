@@ -10,9 +10,9 @@ chapter: false
 
 # **Overview**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e529218-00e9-47a9-8d38-80054984d5d0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e529218-00e9-47a9-8d38-80054984d5d0/Untitled.png)
+![wizfi360-evb](/images/products/wizfi360/wizfi360-evb.jpg)
 
-This document describes WizFi360-EVB-Shield. WizFi360-EVB-Shield is a development board for experiment, test and verification of WizFi360. WizFi360-EVB-Shield can also be used as an Arduino shield. 
+This document describes WizFi360-EVB-Shield. WizFi360-EVB-Shield is a development board for experiment, test and verification of WizFi360. WizFi360-EVB-Shield can also be used as an Arduino shield.
 
 WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. It is compatible with IEEE 802.11 b/g/n standard and supports SoftAP, Station and SoftAP+Station modes. The serial port baud rate can be up to 2Mbps, which can meet the requirement of various applications.
 

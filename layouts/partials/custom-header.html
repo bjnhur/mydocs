@@ -1,5 +1,12 @@
 <!-- Partial intended to be overwritten to add custom headers, like CSS or any other info -->
+<link href="//fonts.googleapis.com/earlyaccess/hanna.css" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/earlyaccess/nanumgothic.css" rel="stylesheet" type="text/css">
 <style type="text/css">
+.hanna { font-family: 'hanna'; }
+.nanum { font-family: 'Nanum Barun Gothic'; }
+body, table, div, p{ font-family: 'Nanum Barun Gothic'; }
+h1 { font-family: 'hanna'; }
+
 .adslot_1 { display:inline-block; width: 320px; height: 50px; }
 @media (max-width: 400px) { .adslot_1 { display: none; } }
 @media (min-width:500px) { .adslot_1 { width: 468px; height: 60px; } }
@@ -18,7 +25,15 @@
 #sidebar ul.topics > li.parent > ul.ppp > li > ul {
     display: none;
 }
+
 /*
+#sidebar ul li li {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100px;
+    height: 20px;
+}
 #sidebar ul.topics > li.parent > ul.ppp > li > ul.ppp {
     display: none;
 }
