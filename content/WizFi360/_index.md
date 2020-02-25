@@ -8,17 +8,61 @@ pre: "<i class='fas fa-wifi'></i> "
 menuTitle: Learn WizFi360
 ---
 
-### Chapter 1
+### 설명
+## Overview
 
-# WizFi360
+WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. It is compatible with the IEEE802.11 b/g/n standard and supports SoftAP, Station and SoftAP+Station modes. The serial port baud rate can be up to 2Mbps, which can meet the requirement of various applications.
 
-Discover what this Hugo theme is all about and the core-concepts behind it.
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b67a85c9-cbe2-4a23-ab8b-61cb01202515/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b67a85c9-cbe2-4a23-ab8b-61cb01202515/Untitled.png)
 
-## ☕ 배워봐 제발!!
+**WizFi360-PA(PCB Antenna)**
 
-- div 가로폭을 전부 차지함, span 태그 안의 내용만 차지함
-- div 폭과 넓이 지정가능, span 못함
-- div 필연적으로 줄 바꿈을 동반, span 줄 바꿈 없고 문장 중간에 들어갈 수 있음
-- table 태그 대신 div와 span 태그로 더욱 간결한 html을 구성할 수 있다.
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff607613-8fb6-45f5-905a-3b93805edeb0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff607613-8fb6-45f5-905a-3b93805edeb0/Untitled.png)
 
-[위즈위키 방문하기](https://wizwiki.net/)
+**WizFi360-CON(U.fl Connector Antena)**
+
+### WizFi360-EVB
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ad72cd2-f61c-47a2-9f12-7ce1ec37927e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ad72cd2-f61c-47a2-9f12-7ce1ec37927e/Untitled.png)
+
+WizFi360-EVB
+
+## Feature
+
+- WiFi 2.4G, 802.11 b/g/n
+- Support Station / SoftAP / SoftAP+Station operation modes
+- Support “Data pass-through” and “AT command data transfer” mode
+- Support serial AT command configuration
+- Support TCP Server / TCP Client / UDP operating mode
+- Support configuration of operating channel 0 ~ 13
+- Support auto 20MHz / 40MHz bandwidth
+- Support WPA_PSK / WPA2_PSK encryption
+- Serial port baud rate up from 600bps to 2Mbps with 16 common values
+- Support up to 5 TCP / UDP links
+- Obtaining IP address automatically from the DHCP server (Station mode)
+- DHCP service for Wireless LAN clients (AP mode)
+- Support DNS for communication with servers by domain name
+- Support “Keep-Alive” to monitor TCP connection
+- Support “Ping” for monitoring network status
+- Built-in SNTP client for receiving the network time
+- Support built-in unique MAC address and user configurable
+- Support firmware upgrade by UART Download / OTA (via WLAN)
+- Industrial grade (operating temperature range: -40 ° C ~ 85 ° C)
+- CE, FCC, KC, Telec certification
+
+## Details
+
+- [Documents](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start)
+    - [Datasheet](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#datasheet) : A brief introduction to WizFi360. These documents describe the features, package information and etc.
+    - [AT Instruction set](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#at_instruction_set): It describes the AT Command of WizFi360 and you can confirm the return message by AT command of WizFi360.
+    - [AT command Example](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#at_command_examples): It includes the Basic example using AT command and it is examples of TCP, UDP, SSL use.
+    - [Quick Start Guide](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#quick_start_guide): The examples using the WizFi360-EVB or WizFi360io, it describes the scenarios in order from Hardware setting to an example of AT command usage
+    - [Firmware Update Guide](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#firmware_update_guide): The method of using how to upload firmware
+    - [Application Notes](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#application_notes): The example of Application, TCP/UDP, etc test using the Arduino
+    - [AT Command Comparison Sheet](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#at_command_comparison_sheet): The AT command comparison with ESP8266 chip
+    - [Ref schematic](https://github.com/Wiznet/Hardware-Files-of-WIZnet/tree/master/07_WizFi_Module/WizFi360-EVB-Shield): Support the schematic of WizFi360-EVB to Gerber, Partlist, Schematic format.
+- For more information visit the [https://github.com/WIZnet-WizFi360/Release](https://github.com/WIZnet-WizFi360/Release%7CWizFi360)
+
+Q & A
+
+- [WizFi360 Forum](https://forum.wiznet.io/c/wifi-module/wizfi360) - For technical support
