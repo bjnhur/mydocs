@@ -1,32 +1,16 @@
 ---
-title: WizFi360
+title: WizFi360 소개페이지
 #date: {{ .Date }}
 weight: 1
-chapter: true
+#chapter: true
 #pre: "<b>1. </b>"
 pre: "<i class='fas fa-wifi'></i> "
 menuTitle: Learn WizFi360
 ---
 
-### 설명
-
 ## Overview
 
 WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. It is compatible with the IEEE802.11 b/g/n standard and supports SoftAP, Station and SoftAP+Station modes. The serial port baud rate can be up to 2Mbps, which can meet the requirement of various applications.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b67a85c9-cbe2-4a23-ab8b-61cb01202515/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b67a85c9-cbe2-4a23-ab8b-61cb01202515/Untitled.png)
-
-**WizFi360-PA(PCB Antenna)**
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff607613-8fb6-45f5-905a-3b93805edeb0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff607613-8fb6-45f5-905a-3b93805edeb0/Untitled.png)
-
-**WizFi360-CON(U.fl Connector Antena)**
-
-### WizFi360-EVB
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ad72cd2-f61c-47a2-9f12-7ce1ec37927e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ad72cd2-f61c-47a2-9f12-7ce1ec37927e/Untitled.png)
-
-WizFi360-EVB
 
 ## Feature
 

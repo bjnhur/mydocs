@@ -1,5 +1,5 @@
 ---
-title: Notice
+title: Notice 사용방법
 description : "Disclaimers to help you structure your page"
 ---
 
