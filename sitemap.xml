@@ -134,7 +134,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/thought/</loc>
+    <loc>https://devbj.com/blog/bookmark/</loc>
     <lastmod>2020-02-19T20:01:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -396,14 +396,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/bytes/</loc>
+    <loc>https://devbj.com/tags/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/bytes/</loc>
+    <loc>https://devbj.com/categories/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -417,14 +417,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/strings/</loc>
+    <loc>https://devbj.com/tags/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/strings/</loc>
+    <loc>https://devbj.com/categories/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
