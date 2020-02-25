@@ -2,7 +2,7 @@
 title = "GoLang Korea"
 date = "2016-08-19T23:35:49-04:00"
 draft = false
-
+weight = 200
 tags = ["Community", "Blog", "Hugo"]
 categories = ["How to"]
 authors = ["Jhonghee Park"]

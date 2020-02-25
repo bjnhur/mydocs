@@ -1,7 +1,7 @@
 ---
 title: WizFi360
 #date: {{ .Date }}
-weight: 5
+weight: 1
 chapter: true
 #pre: "<b>1. </b>"
 pre: "<i class='fas fa-wifi'></i> "
