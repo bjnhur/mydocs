@@ -17,7 +17,7 @@
       <pubDate>Wed, 02 Nov 2016 18:30:33 +0900</pubDate>
       
       <guid>https://devbj.com/golangkorea/go-walkthrough/bytes-strings-packages/</guid>
-      <description>Go Walkthrough 시리즈의 Go Walkthrough: bytes + strings packages를 번역한 글입니다. 우린 지난번 포스트에서 바이트 스트림을 다뤄봤는데 가끔은 제한적인 범위에서, 인메모리 바이트 슬</description>
+      <description>Go Walkthrough 시리즈의 Go Walkthrough: bytes + strings packages 를 번역한 글입니다. 우린 지난번 포스트 에서 바이트 스트림을 다뤄봤는데 가끔은 제한적인 범위에서, 인메모리 바이트 슬라이스를 가지고</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 03 Dec 2016 01:02:26 +0900</pubDate>
       
       <guid>https://devbj.com/golangkorea/go-walkthrough/encoding-json-package/</guid>
-      <description>Go Walkthrough 시리즈의 Go Walkthrough: encoding/json package를 번역한 글입니다. 좋든 나쁘든, JSON은 인터넷의 인코딩이다. 이것의 공식적인 정의는 냅킨 뒷면에 쓸 수 있을 정도로 간단</description>
+      <description>Go Walkthrough 시리즈의 Go Walkthrough: encoding/json package 를 번역한 글입니다. 좋든 나쁘든, JSON은 인터넷의 인코딩이다. 이것의 공식적인 정의는 냅킨 뒷면에 쓸 수 있을 정도로 간단하지만 이는 문</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 09 Nov 2016 15:33:33 +0900</pubDate>
       
       <guid>https://devbj.com/golangkorea/go-walkthrough/encoding-package/</guid>
-      <description>Go Walkthrough 시리즈의 Go Walkthrough: encoding package를 번역한 글입니다. 우리는 이제까지 로우(raw) 바이트 스트림과 제한된 바이트 슬라이스를 다뤄봤지만 단순히 바이트만을</description>
+      <description>Go Walkthrough 시리즈의 Go Walkthrough: encoding package 를 번역한 글입니다. 우리는 이제까지 로우(raw) 바이트 스트림 과 제한된 바이트 슬라이스 를 다뤄봤지만 단순히 바이트만을 사용하는 애플</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 26 Oct 2016 02:30:33 +0900</pubDate>
       
       <guid>https://devbj.com/golangkorea/go-walkthrough/io-package/</guid>
-      <description>Go Walkthrough 시리즈의 Go Walkthrough: io package를 번역한 글입니다. Go는 바이트(bytes)를 사용하여 작업하기 위해 만들어진 프로그래밍 언어이다. 바이트의 리스트</description>
+      <description>Go Walkthrough 시리즈의 Go Walkthrough: io package 를 번역한 글입니다. Go는 바이트(bytes)를 사용하여 작업하기 위해 만들어진 프로그래밍 언어이다. 바이트의 리스트, 바이트의 스</description>
     </item>
     
   </channel>

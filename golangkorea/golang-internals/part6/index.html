@@ -13,20 +13,20 @@
     <title>Golang의 내부, 6부: 부트스트래핑과 메모리 할당자 :: DevBJ.com</title>
 
     
-    <link href="/css/nucleus.css?1582607846" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1582607846" rel="stylesheet">
-    <link href="/css/hybrid.css?1582607846" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1582607846" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1582607846" rel="stylesheet">
-    <link href="/css/auto-complete.css?1582607846" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1582607846" rel="stylesheet">
-    <link href="/css/theme.css?1582607846" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1582607846" rel="stylesheet">
+    <link href="/css/nucleus.css?1582616473" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1582616473" rel="stylesheet">
+    <link href="/css/hybrid.css?1582616473" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1582616473" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1582616473" rel="stylesheet">
+    <link href="/css/auto-complete.css?1582616473" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1582616473" rel="stylesheet">
+    <link href="/css/theme.css?1582616473" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1582616473" rel="stylesheet">
     
-      <link href="/css/theme-blue.css?1582607846" rel="stylesheet">
+      <link href="/css/theme-blue.css?1582616473" rel="stylesheet">
     
 
-    <script src="/js/jquery-3.3.1.min.js?1582607846"></script>
+    <script src="/js/jquery-3.3.1.min.js?1582616473"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -79,14 +79,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1582607846"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1582607846"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1582616473"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1582616473"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/devbj.com\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1582607846"></script>
+<script type="text/javascript" src="/js/search.js?1582616473"></script>
 
 
 
@@ -103,7 +103,7 @@
  
   
     
-    <li data-nav-id="/wizfi360/" title="WizFi360" class="dd-item
+    <li data-nav-id="/wizfi360/" title="WizFi360 소개페이지" class="dd-item
         
         
         
@@ -130,15 +130,15 @@
  
   
     
-    <li data-nav-id="/wizfi360/basics/" title="Basics" class="dd-item
+    <li data-nav-id="/wizfi360/docs/" title="Documents" class="dd-item
         
         
         
         ">
         
-      <a href="/wizfi360/basics/">
+      <a href="/wizfi360/docs/">
           <i class="fas fa-folder-open"></i>
-          <b>1. </b>Basics
+          Documents
           <i class="fas fa-check read-icon"></i>
       </a>
       
@@ -155,10 +155,35 @@
  
   
     
-      <li data-nav-id="/wizfi360/w600/" title="W600" class="dd-item ">
+    <li data-nav-id="/wizfi360/wizfi360-evb/" title="WizFi360-EVB-Shield" class="dd-item
+        
+        
+        
+        ">
+        
+      <a href="/wizfi360/wizfi360-evb/">
+          <i class="fas fa-folder-open"></i>
+          WizFi360-EVB-Shield
+          <i class="fas fa-check read-icon"></i>
+      </a>
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/wizfi360/w600/" title="W600 SDK 소개" class="dd-item ">
       <a href="/wizfi360/w600/">
           <i class="fas fa-file-alt"></i>
-          W600
+          W600 SDK 소개
           <i class="fas fa-check read-icon"></i>
         </a>
     </li>
@@ -554,826 +579,8 @@
         <ul class="ppp">
           
           
-            
           
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/basics/" title="Basics" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/basics/">
-          <i class="fas fa-folder-plus"></i>
-          <b>1. </b>Basics
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-            
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/basics/requirements/" title="Requirements" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/basics/requirements/">
-          <i class="fas fa-folder-open"></i>
-          Requirements
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/basics/installation/" title="Installation" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/basics/installation/">
-          <i class="fas fa-folder-open"></i>
-          Installation
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/basics/configuration/" title="Configuration" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/basics/configuration/">
-          <i class="fas fa-folder-open"></i>
-          Configuration
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/basics/style-customization/" title="Style customization" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/basics/style-customization/">
-          <i class="fas fa-folder-open"></i>
-          Style customization
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-    </li>
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/cont/" title="Content" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/cont/">
-          <i class="fas fa-folder-plus"></i>
-          <b>2. </b>Content
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-            
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/cont/pages/" title="Pages organization" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/cont/pages/">
-          <i class="fas fa-folder-open"></i>
-          Pages organization
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/cont/i18n/" title="Multilingual and i18n" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/cont/i18n/">
-          <i class="fas fa-folder-open"></i>
-          Multilingual and i18n
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/cont/archetypes/" title="Archetypes" class="dd-item ">
-      <a href="/hugolearntheme/cont/archetypes/">
-          <i class="fas fa-file-alt"></i>
-          Archetypes
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/cont/markdown/" title="Markdown syntax" class="dd-item ">
-      <a href="/hugolearntheme/cont/markdown/">
-          <i class="fas fa-file-alt"></i>
-          Markdown syntax
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/cont/menushortcuts/" title="Menu extra shortcuts" class="dd-item ">
-      <a href="/hugolearntheme/cont/menushortcuts/">
-          <i class="fas fa-file-alt"></i>
-          Menu extra shortcuts
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/cont/icons/" title="Icons and logos" class="dd-item ">
-      <a href="/hugolearntheme/cont/icons/">
-          <i class="fas fa-file-alt"></i>
-          Icons and logos
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/cont/tags/" title="Tags" class="dd-item ">
-      <a href="/hugolearntheme/cont/tags/">
-          <i class="fas fa-file-alt"></i>
-          Tags
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/" title="Shortcodes" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/">
-          <i class="fas fa-folder-plus"></i>
-          <b>3. </b>Shortcodes
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-            
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/children/" title="Children" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/children/">
-          <i class="fas fa-folder-plus"></i>
-          Children
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-            
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/children/children-1/" title="page 1" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/children/children-1/">
-          <i class="fas fa-folder-plus"></i>
-          page 1
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-            
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/children/children-1/children-1-1/" title="page 1-1" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/children/children-1/children-1-1/">
-          <i class="fas fa-folder-plus"></i>
-          page 1-1
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-            
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/" title="page 1-1-1" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/">
-          <i class="fas fa-folder-plus"></i>
-          page 1-1-1
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-            
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/" title="page 1-1-1-1" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/">
-          <i class="fas fa-folder-plus"></i>
-          page 1-1-1-1
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-            
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/" title="page 1-1-1-1-1" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/">
-          <i class="fas fa-folder-open"></i>
-          page 1-1-1-1-1
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-    </li>
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/children/children-2/" title="page 2" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/children/children-2/">
-          <i class="fas fa-folder-plus"></i>
-          page 2
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-        <ul class="ppp">
-          
-          
-          
-
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/children/children-2/test3/" title="page test 3" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/children/children-2/test3/">
-          <i class="fas fa-file-alt"></i>
-          page test 3
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/children/children-2/test3.fr/" title="page test 3" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/children/children-2/test3.fr/">
-          <i class="fas fa-file-alt"></i>
-          page test 3
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-    <li data-nav-id="/hugolearntheme/shortcodes/children/children-3/" title="page 3" class="dd-item
-        
-        
-        
-        ">
-        
-      <a href="/hugolearntheme/shortcodes/children/children-3/">
-          <i class="fas fa-folder-open"></i>
-          page 3
-          <i class="fas fa-check read-icon"></i>
-      </a>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/children/test/" title="page test" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/children/test/">
-          <i class="fas fa-file-alt"></i>
-          page test
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/children/test.fr/" title="page test" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/children/test.fr/">
-          <i class="fas fa-file-alt"></i>
-          page test
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/attachments/" title="Attachments" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/attachments/">
-          <i class="fas fa-file-alt"></i>
-          Attachments
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/button/" title="Button" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/button/">
-          <i class="fas fa-file-alt"></i>
-          Button
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/expand/" title="Expand" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/expand/">
-          <i class="fas fa-file-alt"></i>
-          Expand
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/mermaid/" title="Mermaid" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/mermaid/">
-          <i class="fas fa-file-alt"></i>
-          Mermaid
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/notice/" title="Notice" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/notice/">
-          <i class="fas fa-file-alt"></i>
-          Notice
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/hugolearntheme/shortcodes/siteparam/" title="Site param" class="dd-item ">
-      <a href="/hugolearntheme/shortcodes/siteparam/">
-          <i class="fas fa-file-alt"></i>
-          Site param
-          <i class="fas fa-check read-icon"></i>
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-        </ul>
-      
-    </li>
-  
- 
 
-            
           
             
             
@@ -1386,6 +593,26 @@
       <a href="/hugolearntheme/mytips/">
           <i class="fas fa-file-alt"></i>
           사용팁
+          <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/hugolearntheme/notice/" title="Notice 사용방법" class="dd-item ">
+      <a href="/hugolearntheme/notice/">
+          <i class="fas fa-file-alt"></i>
+          Notice 사용방법
           <i class="fas fa-check read-icon"></i>
         </a>
     </li>
@@ -2207,25 +1434,40 @@
 1 __vdso_time_sym
 2 __vdso_gettimeofday_sym
 3 __vdso_clock_gettime_sym
-</code></pre><p>이 것들은 여러 함수들내 현재 시간을 획득하는데 사용된다. 이 모든 변수들은 기본값을 가진다. 이렇게 함으로써 Golang에서 상응하는 함수들을 호출하기 위해 <em><a href="http://www.ukuug.org/events/linux2001/papers/html/AArcangeli-vsyscalls.html">vsyscall</a></em> 메카니즘의 사용이 허용된다.</p>
+</code></pre><p>이 것들은 여러 함수들내 현재 시간을 획득하는데 사용된다. 이 모든 변수들은 기본값을 가진다. 이렇게 함으로써 Golang에서 상응하는 함수들을 호출하기 위해 <em><a href="http://www.ukuug.org/events/linux2001/papers/html/AArcangeli-vsyscalls.html" target="_blank">vsyscall</a>
+</em> 메카니즘의 사용이 허용된다.</p>
 <h1 id="runtimeosinit-함수의-내부"><em>runtime.osinit</em> 함수의 내부</h1>
-<p>시작 순서에서 그 다음으로 호출되는 함수는 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/os1_linux.go#L172">runtime.osinit</a></em> 이다. 리눅스 시스템에서 단 한가지 하는 일이 있는데 그것은 시스템내 CPU 숫자를 가지고 있는 ncpu 변수를 한 syscall을 통해 초기화하는 것이다.</p>
+<p>시작 순서에서 그 다음으로 호출되는 함수는 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/os1_linux.go#L172" target="_blank">runtime.osinit</a>
+</em> 이다. 리눅스 시스템에서 단 한가지 하는 일이 있는데 그것은 시스템내 CPU 숫자를 가지고 있는 ncpu 변수를 한 syscall을 통해 초기화하는 것이다.</p>
 <h1 id="runtimeschedinit-함수의-내부"><em>runtime.schedinit</em> 함수의 내부</h1>
-<p>시작 순서에서 다음 함수인 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/proc1.go#L40">runtime.schedinit</a></em> 는 더 흥미롭다. 현재의 고루틴을 얻는 것으로 시작하는데, 사실 이 것은 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/runtime2.go#L211">g</a></em> 구조의 포인터이다. 이미 이 포인터가 어떻게 저장되는 지는 TLS 구현을 논할 때 얘기한 바있다. 다음은 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/race1.go#L110">runtime.raceinit</a></em> 를 호출한다. runtime.raceinit에 대한 토론은 넘어가겠다. 왜냐하면 이 함수는 race 조건이 활성화되지 않은 경우는 보통 호출되지 않기 때문이다. 그 다음에는 몇몇 다른 초기화 함수들이 호출된다.</p>
+<p>시작 순서에서 다음 함수인 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/proc1.go#L40" target="_blank">runtime.schedinit</a>
+</em> 는 더 흥미롭다. 현재의 고루틴을 얻는 것으로 시작하는데, 사실 이 것은 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/runtime2.go#L211" target="_blank">g</a>
+</em> 구조의 포인터이다. 이미 이 포인터가 어떻게 저장되는 지는 TLS 구현을 논할 때 얘기한 바있다. 다음은 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/race1.go#L110" target="_blank">runtime.raceinit</a>
+</em> 를 호출한다. runtime.raceinit에 대한 토론은 넘어가겠다. 왜냐하면 이 함수는 race 조건이 활성화되지 않은 경우는 보통 호출되지 않기 때문이다. 그 다음에는 몇몇 다른 초기화 함수들이 호출된다.</p>
 <p>하나씩 살펴보자.</p>
 <h1 id="traceback-초기화">traceback 초기화</h1>
-<p><em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/traceback.go#L58">runtime.tracebackinit</a></em> 함수는 traceback을 초기화하는 일을 한다. Traceback이라는 것은 현재의 실행지점에 오기까지 호출된 함수들의 스택을 말한다. 예를 들어, panic이 일어날 때마다 볼 수 있다. Traceback은 주어진 프로그램 카운터로 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/traceback.go#L120">runtime.gentraceback</a></em> 함수를 호출함으로써 얻어진다. 이 함수가 동작하려면, 몇몇 내장함수들의 주소를 알 필요가 있는데, 그 이유는 traceback에 이 함수들이 나타나는 것을 원하지 않기 때문이다. 이 주소들은 <em>runtime.tracebackinit</em> 을 통해 초기화된다.</p>
+<p><em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/traceback.go#L58" target="_blank">runtime.tracebackinit</a>
+</em> 함수는 traceback을 초기화하는 일을 한다. Traceback이라는 것은 현재의 실행지점에 오기까지 호출된 함수들의 스택을 말한다. 예를 들어, panic이 일어날 때마다 볼 수 있다. Traceback은 주어진 프로그램 카운터로 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/traceback.go#L120" target="_blank">runtime.gentraceback</a>
+</em> 함수를 호출함으로써 얻어진다. 이 함수가 동작하려면, 몇몇 내장함수들의 주소를 알 필요가 있는데, 그 이유는 traceback에 이 함수들이 나타나는 것을 원하지 않기 때문이다. 이 주소들은 <em>runtime.tracebackinit</em> 을 통해 초기화된다.</p>
 <h1 id="링커-심볼들-검사하기">링커 심볼들 검사하기</h1>
-<p>링커 심볼들은 링커가 실행파일과 오브젝트 파일에 뿜어내는 데이터를 말한다. 대부분의 내용은 <a href="/post/golang-internals/part3/">Golang의 내부, 3부: 링커, 오브젝트 파일, 그리고 재배치</a>에서 논했다. runtime 패키지에서 링커 심볼들은 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/symtab.go#L37">moduledata</a></em> 구조체에 맵핑되어 있다. <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/symtab.go#L95">runtime.moduledataverify</a></em> 함수를 통해 이 데이타에 대한 확인이 이루어지고 오염여부와 구조가 바른지를 검사한다.</p>
+<p>링커 심볼들은 링커가 실행파일과 오브젝트 파일에 뿜어내는 데이터를 말한다. 대부분의 내용은 <a href="/post/golang-internals/part3/">Golang의 내부, 3부: 링커, 오브젝트 파일, 그리고 재배치</a>
+에서 논했다. runtime 패키지에서 링커 심볼들은 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/symtab.go#L37" target="_blank">moduledata</a>
+</em> 구조체에 맵핑되어 있다. <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/symtab.go#L95" target="_blank">runtime.moduledataverify</a>
+</em> 함수를 통해 이 데이타에 대한 확인이 이루어지고 오염여부와 구조가 바른지를 검사한다.</p>
 <h1 id="스택-풀-초기화하기">스택 풀 초기화하기</h1>
 <p>다음 초기화 단계를 이해하기 위해서는 Go 언어에서 스택이 어떻게 자라는지를 대한 지식이 조금 필요하다. 새로운 고루팅이 만들어 지면 작고 크기가 고정된 스택이 할당된다. 스택이 어떤 한계치에 도달하면, 크기가 두배가 되고 스택은 다른 장소로 복사된다.</p>
-<p>아직 살펴보아야 할 자세한 내용들로 어떻게 한계치에 도달했는지를 결정하는지, Go가 어떻게 스택내 포인터들을 조정하는지가 남아 있다. 이전 포스트에서 <em>stackguard0</em> 필드와 함수 메타데이더를 얘기할 때 이런 주제에 대해 약간 다루기도 했다. 이 주제에 대해 유용한 정보는 <a href="https://docs.google.com/document/d/1wAaf1rYoM4S4gtnPh0zOlGzWtrZFQ5suE8qr2sD8uWQ/pub">이 문서</a>를 통해 찾을 수 있다.</p>
-<p>Go는 현재 이용되지 않은 스택들을 저장하기 위해 스택 풀을 이용한다. 스택 풀은 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/stack1.go#L54">runtime.stackinit</a></em> 함수내 초기화된 배열이다. 이 배열안의 각 아이템은 같은 크기를 갖는 스택들의 linked list 구조를 담고 있다.</p>
+<p>아직 살펴보아야 할 자세한 내용들로 어떻게 한계치에 도달했는지를 결정하는지, Go가 어떻게 스택내 포인터들을 조정하는지가 남아 있다. 이전 포스트에서 <em>stackguard0</em> 필드와 함수 메타데이더를 얘기할 때 이런 주제에 대해 약간 다루기도 했다. 이 주제에 대해 유용한 정보는 <a href="https://docs.google.com/document/d/1wAaf1rYoM4S4gtnPh0zOlGzWtrZFQ5suE8qr2sD8uWQ/pub" target="_blank">이 문서</a>
+를 통해 찾을 수 있다.</p>
+<p>Go는 현재 이용되지 않은 스택들을 저장하기 위해 스택 풀을 이용한다. 스택 풀은 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/stack1.go#L54" target="_blank">runtime.stackinit</a>
+</em> 함수내 초기화된 배열이다. 이 배열안의 각 아이템은 같은 크기를 갖는 스택들의 linked list 구조를 담고 있다.</p>
 <p>이 단계에 초기화되는 또 다른 변수로 <em>runtime.stackFreeQueue</em> 가 있다. 이것 역시 스택들로 이루어진 linked list를 담고 있지만, 가비지 컬렉션중에 리스트에 추가되며 끝나면 지워진다. 2 KB, 4 KB, 8 KB 그리고 16 KB 크기의 스택만이 저장되고 그 보다 큰 것들은 직접 할당되는 점을 주목하라.</p>
 <h1 id="메모리-할당자-초기화하기">메모리 할당자 초기화하기</h1>
-<p>메모리 할당 과정은 이 <a href="(https://github.com/golang/go/blob/go1.5.1/src/runtime/malloc.go#L5)">소스 코드 커밋</a>에 서술되어 있다. 메모리 할당이 어떻게 작동하는지를 이해하고자 한다면 꼭 읽어 보길 권장한다. 이 주제는 앞으로 나올 포스트에서 더 자세히 다루도록 하겠다. 메모리 할당자의 초기화는 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/malloc.go#L216">runtime.mallocinit</a></em> 함수내 자리잡고 있다. 가까이 들여다 보자.</p>
+<p>메모리 할당 과정은 이 <a href="%28https://github.com/golang/go/blob/go1.5.1/src/runtime/malloc.go#L5%29">소스 코드 커밋</a>
+에 서술되어 있다. 메모리 할당이 어떻게 작동하는지를 이해하고자 한다면 꼭 읽어 보길 권장한다. 이 주제는 앞으로 나올 포스트에서 더 자세히 다루도록 하겠다. 메모리 할당자의 초기화는 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/malloc.go#L216" target="_blank">runtime.mallocinit</a>
+</em> 함수내 자리잡고 있다. 가까이 들여다 보자.</p>
 <h1 id="사이즈-클래스들size-classes를-초기화하기">사이즈 클래스들(size classes)를 초기화하기</h1>
-<p>여기에 처음 볼 수 있는 것은 <em>runtime.mallocinit</em> 가 또 다른 함수-<em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/msize.go#L66">initSizes</a></em> 를 호출하는 것이다. 이 함수는 사이즈 클래스들를 계산하는 일을 한다. 하지만 클래스의 크기를 어떻게 결정하는가? (32 KB 가 안되는) 작은 객체를 할당할 때, Go 런타임은 처음 미리 정해둔 클래스 크기로 객체의 크기를 반올림한다. 그래서 할당된 메모리 블록은 실제 필요한 객체 크기보 보통 좀 더 큰, 미리 정해진 크기들중에 하나를 선택할 수 밖에 없다. 이로 인해 메모리가 조금 낭비되긴 하지만 이 방법을 통해서 다른 객체에 이미 할당된 메모리를 재사용하는 것이 용이해 진다.</p>
+<p>여기에 처음 볼 수 있는 것은 <em>runtime.mallocinit</em> 가 또 다른 함수-<em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/msize.go#L66" target="_blank">initSizes</a>
+</em> 를 호출하는 것이다. 이 함수는 사이즈 클래스들를 계산하는 일을 한다. 하지만 클래스의 크기를 어떻게 결정하는가? (32 KB 가 안되는) 작은 객체를 할당할 때, Go 런타임은 처음 미리 정해둔 클래스 크기로 객체의 크기를 반올림한다. 그래서 할당된 메모리 블록은 실제 필요한 객체 크기보 보통 좀 더 큰, 미리 정해진 크기들중에 하나를 선택할 수 밖에 없다. 이로 인해 메모리가 조금 낭비되긴 하지만 이 방법을 통해서 다른 객체에 이미 할당된 메모리를 재사용하는 것이 용이해 진다.</p>
 <p><em>initSizes</em> 함수는 이런 클래스를 계산하는 일을 한다. 함수 꼭대기에서 다음 코드를 볼 수 있다:</p>
 <blockquote>
 <pre><code></code></pre></blockquote>
@@ -2279,7 +1521,8 @@
 8 mheap_.arena_reserved = reserved
 </code></pre><p>처음부터, *mheap_.arena_used* 가 *mheap_.arena_start* 와 동일한 주소를 가지고 초기화되었음을 주목하라. 이유는 아직 아무 것도 할당되지 않았기 때문이다.</p>
 <h1 id="힢heap-초기화">힢(Heap) 초기화</h1>
-<p>다음으로 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/mheap.go#L273">mHeap_Init</a></em> 함수가 호출된다. 할당자의 초기화가 제일 먼저 진행되었다.</p>
+<p>다음으로 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/mheap.go#L273" target="_blank">mHeap_Init</a>
+</em> 함수가 호출된다. 할당자의 초기화가 제일 먼저 진행되었다.</p>
 <blockquote>
 <pre><code></code></pre></blockquote>
 <p>1 fixAlloc_Init(&amp;h.spanalloc, unsafe.Sizeof(mspan{}), recordspan, unsafe.Pointer(h), &amp;memstats.mspan_sys)
@@ -2294,7 +1537,9 @@
 2     f.chunk = (*uint8)(persistentalloc(_FixAllocChunk, 0, f.stat))
 3     f.nchunk = _FixAllocChunk
 4 }
-</code></pre><p>이 부분은 메모리를 할당하지만 구조체의 실제 크기인 <em>f.size</em> 바이트를 할당하는 대신 (현재는 16 KB)인 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/malloc.go#L130">_FixAllocChunk</a></em> 바이트를 따로 떼어 놓은다. 나머지 사용가능한 공간은 할당자내 저장된다. 다음번에 같은 타입의 구조체를 할당할 필요가 있으면 시간을 많이 소비하는 <a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/malloc.go#L828">persistentalloc</a>를 호출할 필요가 없게 된다.</p>
+</code></pre><p>이 부분은 메모리를 할당하지만 구조체의 실제 크기인 <em>f.size</em> 바이트를 할당하는 대신 (현재는 16 KB)인 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/malloc.go#L130" target="_blank">_FixAllocChunk</a>
+</em> 바이트를 따로 떼어 놓은다. 나머지 사용가능한 공간은 할당자내 저장된다. 다음번에 같은 타입의 구조체를 할당할 필요가 있으면 시간을 많이 소비하는 <a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/malloc.go#L828" target="_blank">persistentalloc</a>
+를 호출할 필요가 없게 된다.</p>
 <p><em>persistentalloc</em> 함수는 가비지 컬렉트되어서는 않되는 메모리를 할당하는 일을 한다. 이 함수의 웍플로우는 다음과 같다:</p>
 <ol>
 <li>만약 할당된 블록이 64 KB보다 크면 OS 메모리로 부터 직접 할당된다.</li>
@@ -2315,7 +1560,8 @@
 <li><em>specialfinalizeralloc</em> 는 <em>runtime.SetFinalizer</em> 함수가 호출될 때 할당되는 구조체이다. 객체가 제거되면서 정리정돈(cleanup)하는 코드를 실행시키길 원한다면 이 구조체를 만들어야 할 것이다. 좋은 예제로 새로운 파일마다 finalizer를 연계시키는 <em>os.NewFile</em> 함수이다. 이 finalizer가 OS 파일 설명자(file descriptor)를 닫아야 한다.</li>
 <li><em>specialprofilealloc</em> 는 메모리 프로파일러에 사용되는 구조체이다.</li>
 </ul>
-<p>메모리 할당자들을 초기화하고 난 후, <em>mHeap_Init</em> 함수는 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/mheap.go#L863">mSpanList_Init</a></em> 을 호출함으로서 리스트들을 초기화 한다. 간단한 일로 linked 리스트를 위한 첫번째 입력을 초기화하는 것이다. <em>mheap</em> 구조체는 그러한 linked 리스트를 몇개 가지고 있다.</p>
+<p>메모리 할당자들을 초기화하고 난 후, <em>mHeap_Init</em> 함수는 <em><a href="https://github.com/golang/go/blob/go1.5.1/src/runtime/mheap.go#L863" target="_blank">mSpanList_Init</a>
+</em> 을 호출함으로서 리스트들을 초기화 한다. 간단한 일로 linked 리스트를 위한 첫번째 입력을 초기화하는 것이다. <em>mheap</em> 구조체는 그러한 linked 리스트를 몇개 가지고 있다.</p>
 <ul>
 <li><em>mheap.free</em> 와 <em>mheap.busy</em> 는 <em>free</em> 와 <em>busy</em> 리스트를 담고 있는 배열들로 대형(32 KB보다 크고, 1 MB보다 작은) 객체들을 위한 메모리 스팬을 갖고 있다. 각 배열은 가능한 크기의 아이템을 가지고 있다. 여기서 크기들은 페이지로 측정된다. 한 페이지는 32 KB에 해당한다. 첫번째 아이템은 32 KB 스팬을 가지는 리스트를 담고 있고, 두번째는 64 KB 스팬을 가지는 리스트를 담고 있는 그런 식이다.</li>
 <li><em>mheap.freelarge</em> 와 <em>mheap.busylarge</em> 는 1 MB이상의 객체들을 위한 free 와 busy 리스트들이다.</li>
@@ -2457,6 +1703,22 @@
             
         
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
             
         
                     
@@ -2474,38 +1736,6 @@
                     
                     
 
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
                     
                         
             
@@ -2731,415 +1961,6 @@
             
         
                     
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-            
-        
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
                         
             
             
@@ -3188,14 +2009,6 @@
                     
 
                     
-            
-        
-                    
-                        
-            
-            
-        
-                    
                         
             
             
@@ -3224,76 +2037,6 @@
                     
                     
 
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
                     
             
         
@@ -3769,19 +2512,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1582607846"></script>
-    <script src="/js/perfect-scrollbar.min.js?1582607846"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1582607846"></script>
-    <script src="/js/jquery.sticky.js?1582607846"></script>
-    <script src="/js/featherlight.min.js?1582607846"></script>
-    <script src="/js/highlight.pack.js?1582607846"></script>
+    <script src="/js/clipboard.min.js?1582616473"></script>
+    <script src="/js/perfect-scrollbar.min.js?1582616473"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1582616473"></script>
+    <script src="/js/jquery.sticky.js?1582616473"></script>
+    <script src="/js/featherlight.min.js?1582616473"></script>
+    <script src="/js/highlight.pack.js?1582616473"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1582607846"></script>
-    <script src="/js/learn.js?1582607846"></script>
-    <script src="/js/hugo-learn.js?1582607846"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1582616473"></script>
+    <script src="/js/learn.js?1582616473"></script>
+    <script src="/js/hugo-learn.js?1582616473"></script>
 
-    <link href="/mermaid/mermaid.css?1582607846" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1582607846"></script>
+    <link href="/mermaid/mermaid.css?1582616473" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1582616473"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
