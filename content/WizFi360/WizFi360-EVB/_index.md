@@ -8,96 +8,98 @@ chapter: false
 #menuTitle: Learn WizFi360 EVB Shield
 ---
 
-**Overview**
+# **Overview**
 
-This document describes WizFi360-EVB-Shield. WizFi360-EVB-Shield is a development board for experiment, test and verification of WizFi360. WizFi360-EVB-Shield can also be used as an Arduino shield.
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e529218-00e9-47a9-8d38-80054984d5d0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e529218-00e9-47a9-8d38-80054984d5d0/Untitled.png)
+
+This document describes WizFi360-EVB-Shield. WizFi360-EVB-Shield is a development board for experiment, test and verification of WizFi360. WizFi360-EVB-Shield can also be used as an Arduino shield. 
 
 WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. It is compatible with IEEE 802.11 b/g/n standard and supports SoftAP, Station and SoftAP+Station modes. The serial port baud rate can be up to 2Mbps, which can meet the requirement of various applications.
 
-**Feature**
+## **Feature**
 
--   WizFi360
-    -   WiFi 2.4G, 802.11 b/g/n
-    -   Support Station / SoftAP / SoftAP+Station operation modes
-    -   Support “Data pass-through” and “AT command data transfer” mode
-    -   Support serial AT command configuration
-    -   Support TCP Server / TCP Client / UDP operating mode
-    -   Support configuration of operating channel 0 ~ 13
-    -   Support auto 20MHz / 40MHz bandwidth
-    -   Support WPA_PSK / WPA2_PSK encryption
-    -   Serial port baud rate up from 600bps to 2Mbps with 16 common values
-    -   Support up to 5 TCP / UDP links
-    -   Obtaining IP address automatically from the DHCP server (Station mode)
-    -   DHCP service for Wireless LAN clients (AP mode)
-    -   Support DNS for communication with servers by domain name
-    -   Support “Keep-Alive” to monitor TCP connection
-    -   Support “Ping” for monitoring network status
-    -   Built-in SNTP client for receiving the network time
-    -   Support built-in unique MAC address and user configurable
-    -   Support firmware upgrade by UART Download / OTA (via WLAN)
-    -   Industrial grade (operating temperature range: -40 ° C ~ 85 ° C)
-    -   CE, FCC certification
--   ETC
-    -   Built-in UART to USB chip
-        -   CP2104-GM
-        -   Micro USB B Type Connector
-    -   UART Selector
-        -   JP1, JP2, JP3
-        -   2.54mm Pin Header
-    -   Built-in Sensors
-        -   Temperature/Humidity Sensor: DHT11
-        -   CDS Sensor: GL5537
-    -   Built-in Tact Switches
-        -   System Reset Switch: S1
-        -   WiFi Reset Switch: S2
-    -   Built-in LED Indicators
-        -   D13 LED
-    -   Built-in Level Shifters
-        -   The voltage of the RXD/TXD signal changes according to the main board platform voltage.
-    -   Built-in DIP Switches
-        -   UART RXD/TXD Selector: SW1
-        -   UART RTS/CTS Selector: SW2
-        -   Sensor/RESET Pins Selector: SW3
+- WizFi360
+    - WiFi 2.4G, 802.11 b/g/n
+    - Support Station / SoftAP / SoftAP+Station operation modes
+    - Support “Data pass-through” and “AT command data transfer” mode
+    - Support serial AT command configuration
+    - Support TCP Server / TCP Client / UDP operating mode
+    - Support configuration of operating channel 0 ~ 13
+    - Support auto 20MHz / 40MHz bandwidth
+    - Support WPA_PSK / WPA2_PSK encryption
+    - Serial port baud rate up from 600bps to 2Mbps with 16 common values
+    - Support up to 5 TCP / UDP links
+    - Obtaining IP address automatically from the DHCP server (Station mode)
+    - DHCP service for Wireless LAN clients (AP mode)
+    - Support DNS for communication with servers by domain name
+    - Support “Keep-Alive” to monitor TCP connection
+    - Support “Ping” for monitoring network status
+    - Built-in SNTP client for receiving the network time
+    - Support built-in unique MAC address and user configurable
+    - Support firmware upgrade by UART Download / OTA (via WLAN)
+    - Industrial grade (operating temperature range: -40 ° C ~ 85 ° C)
+    - CE, FCC certification
+- ETC
+    - Built-in UART to USB chip
+        - CP2104-GM
+        - Micro USB B Type Connector
+    - UART Selector
+        - JP1, JP2, JP3
+        - 2.54mm Pin Header
+    - Built-in Sensors
+        - Temperature/Humidity Sensor: DHT11
+        - CDS Sensor: GL5537
+    - Built-in Tact Switches
+        - System Reset Switch: S1
+        - WiFi Reset Switch: S2
+    - Built-in LED Indicators
+        - D13 LED
+    - Built-in Level Shifters
+        - The voltage of the RXD/TXD signal changes according to the main board platform voltage.
+    - Built-in DIP Switches
+        - UART RXD/TXD Selector: SW1
+        - UART RTS/CTS Selector: SW2
+        - Sensor/RESET Pins Selector: SW3
 
-**Quick Start Guide**
+## **Quick Start Guide**
 
--   [Quick Start Guide](https://wizwiki.net/wiki/doku.php/products:wizfi360:wizfi360ds:start#quick_start_guide)
+- [Quick Start Guide](https://wizwiki.net/wiki/doku.php/products:wizfi360:wizfi360ds:start#quick_start_guide)
 
-* * *
+---
 
-**Datasheet**
+## **Datasheet**
 
--   [Download](https://wizwiki.net/wiki/doku.php/products:wizfi360:wizfi360ds:start#datasheet)
+- [Download](https://wizwiki.net/wiki/doku.php/products:wizfi360:wizfi360ds:start#datasheet)
 
-* * *
+---
 
-**Technical Reference**
+## **Technical Reference**
 
-**Ref Schematic & Other Board Schematics**
+### **Ref Schematic & Other Board Schematics**
 
--   [Go to Github](https://github.com/Wiznet/Hardware-Files-of-WIZnet/tree/master/07_WizFi_Module/WizFi360-EVB-Shield)
+- [Go to Github](https://github.com/Wiznet/Hardware-Files-of-WIZnet/tree/master/07_WizFi_Module/WizFi360-EVB-Shield)
 
-* * *
+---
 
-**Library**
+### **Library**
 
--   [Go to Github](https://github.com/wizfi/Release)
+- [Go to Github](https://github.com/wizfi/Release)
 
-* * *
+---
 
-**ETC**
+### **ETC**
 
 **Serial Port Driver**
 
--   [CP210x USB to UART Bridge VCP Drivers](http://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+- [CP210x USB to UART Bridge VCP Drivers](http://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
-**Sensor Datasheets**
+### **Sensor Datasheets**
 
--   [DHT11 Humidity & Temperature Sensor Datasheet](http://www.micropik.com/PDF/dht11.pdf)
--   [GL5537 Datasheet](https://www.kth.se/social/files/54ef17dbf27654753f437c56/GL5537.pdf)
+- [DHT11 Humidity & Temperature Sensor Datasheet](http://www.micropik.com/PDF/dht11.pdf)
+- [GL5537 Datasheet](https://www.kth.se/social/files/54ef17dbf27654753f437c56/GL5537.pdf)
 
-* * *
+---
 
 ## **See Also**
 
-[WizFi360 WIZnetForum](https://forum.wiznet.io/c/wifi-module/wizfi360) : WIZnet Forum for Technical support and Project shared
+[WizFi360 WIZnetForum](https://forum.wiznet.io/c/wifi-module/wizfi360) : WIZnet Forum for Technical support
