@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devbj.com/blog/2020/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/blog/2020/2020-02-26-markdownwrite/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://devbj.com/golangkorea/go-walkthrough/bytes-strings-packages/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -128,14 +142,14 @@
   
   <url>
     <loc>https://devbj.com/blog/</loc>
-    <lastmod>2020-02-19T20:01:43+09:00</lastmod>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/bookmark/</loc>
-    <lastmod>2020-02-19T20:01:43+09:00</lastmod>
+    <loc>https://devbj.com/blog/2010/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -169,6 +183,13 @@
   <url>
     <loc>https://devbj.com/golangkorea/golang-internals/part6/</loc>
     <lastmod>2016-09-20T16:20:29-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/blog/bookmark/</loc>
+    <lastmod>2020-02-19T20:01:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -221,14 +242,42 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/arduino/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://devbj.com/blog/2020/button/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/blog/2020/expand/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://devbj.com/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/blog/2020/mermaid/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/blog/2020/notionpagecopy/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/tags/arduino/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -242,7 +291,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2019-03-05-webserver-adafruit/</loc>
+    <loc>https://devbj.com/blog/2010/2019-03-05-webserver-adafruit/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -270,7 +319,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2019-03-03-embeddedworld2019/</loc>
+    <loc>https://devbj.com/blog/2010/2019-03-03-embeddedworld2019/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -291,7 +340,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2019-01-21-arduino-ethernet-products/</loc>
+    <loc>https://devbj.com/blog/2010/2019-01-21-arduino-ethernet-products/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -312,14 +361,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2019-01-15-arduino-ethernet-shield-list/</loc>
+    <loc>https://devbj.com/blog/2010/2019-01-15-arduino-ethernet-shield-list/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2019-01-15-arduino-ethernet/</loc>
+    <loc>https://devbj.com/blog/2010/2019-01-15-arduino-ethernet/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -340,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2016-08-05-drama/</loc>
+    <loc>https://devbj.com/blog/2010/2016-08-05-drama/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -396,14 +445,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/bytes/</loc>
+    <loc>https://devbj.com/categories/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/bytes/</loc>
+    <loc>https://devbj.com/tags/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -417,14 +466,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/strings/</loc>
+    <loc>https://devbj.com/categories/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/strings/</loc>
+    <loc>https://devbj.com/tags/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -655,7 +704,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2016-09-07-w5500-drivers/</loc>
+    <loc>https://devbj.com/blog/2010/2016-09-07-w5500-drivers/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -697,7 +746,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2016-08-31-torrent/</loc>
+    <loc>https://devbj.com/blog/2010/2016-08-31-torrent/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -788,14 +837,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/unittest/</loc>
+    <loc>https://devbj.com/categories/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/unittest/</loc>
+    <loc>https://devbj.com/tags/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -816,7 +865,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2016-08-01-english/</loc>
+    <loc>https://devbj.com/blog/2010/2016-08-01-english/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -865,33 +914,15 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2016-07-26-makefile/</loc>
+    <loc>https://devbj.com/blog/2010/2016-07-26-makefile/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2016-07-21-move-to-jekyll/</loc>
+    <loc>https://devbj.com/blog/2010/2016-07-21-move-to-jekyll/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/blog/button/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/blog/expand/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/blog/mermaid/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -904,12 +935,6 @@
   
   <url>
     <loc>https://devbj.com/subcategories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/blog/notionpagecopy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

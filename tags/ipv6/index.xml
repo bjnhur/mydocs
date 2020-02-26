@@ -13,10 +13,10 @@
     
     <item>
       <title>IPv6 WebServer example with WIZnet W6100 chip</title>
-      <link>https://devbj.com/blog/2019-03-05-webserver-adafruit/</link>
+      <link>https://devbj.com/blog/2010/2019-03-05-webserver-adafruit/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2019-03-05-webserver-adafruit/</guid>
+      <guid>https://devbj.com/blog/2010/2019-03-05-webserver-adafruit/</guid>
       <description>(Modified) 2019-03-03 WebServer Example WebServer-Adafruit (https://github.com/WIZnet-ArduinoEthernet/WebServer-Adafruit) W6100의 IPv4, IPv6 Dual Stack을 이용한 WebServer Example 입니다. Browser로 접속하면 Host의 IPv4 또는 IPv6 주소가 Adafruit의 OLED SSD130</description>
     </item>
     
