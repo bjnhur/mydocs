@@ -1,5 +1,6 @@
 ---
 title : Expand
+date: 2020-02-19
 description : "Displays an expandable/collapsible section of text on your page"
 ---
 

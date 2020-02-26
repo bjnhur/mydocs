@@ -1,7 +1,7 @@
 +++
-title = "자주가는곳"
+title = "Bookmark"
 date = 2020-02-19T20:01:43+09:00
-weight = 5
+weight = 10
 #chapter = true
 #pre = "<b>1. </b>"
 +++
