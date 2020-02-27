@@ -10,4 +10,4 @@ description: "블로그 글 모음 - 기술, 생각"
 
 ## 블로그 글 모음
 
-{{% children style="div" depth="999" %}}
+{{% children style="li" depth="999" %}}
