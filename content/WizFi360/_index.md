@@ -37,7 +37,7 @@ WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. I
 
 ## Details
 
--   [Documents](Docs/)
+-   [Documents](docs/)
     -   [Datasheet](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#datasheet) : A brief introduction to WizFi360. These documents describe the features, package information and etc.
     -   [AT Instruction set](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#at_instruction_set): It describes the AT Command of WizFi360 and you can confirm the return message by AT command of WizFi360.
     -   [AT command Example](http://wizwiki.net/wiki/doku.php?id=products:wizfi360:wizfi360ds:start#at_command_examples): It includes the Basic example using AT command and it is examples of TCP, UDP, SSL use.
