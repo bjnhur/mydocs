@@ -1,11 +1,14 @@
 ---
 title: WizFi360 소개페이지
-#date: {{ .Date }}
+date: 2020-02-01
 weight: 1
 #chapter: true
 #pre: "<b>1. </b>"
 pre: "<i class='fas fa-wifi'></i> "
 menuTitle: Learn WizFi360
+tags: [WizFi, WizFi360, WiFi, W5500, IoT, embedded, Ethernet, W5100, Arduino, AVR]
+excerpt: Learn WizFi360
+Description: WizFi360 overview and technical notes
 ---
 
 ## Overview
