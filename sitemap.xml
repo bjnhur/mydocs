@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://devbj.com/wizfi360/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://devbj.com/golangkorea/go-walkthrough/bytes-strings-packages/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -47,12 +54,6 @@
   <url>
     <loc>https://devbj.com/golangkorea/go-start/</loc>
     <lastmod>2016-08-23T22:35:57-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/wizfi360/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -445,14 +446,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/bytes/</loc>
+    <loc>https://devbj.com/tags/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/bytes/</loc>
+    <loc>https://devbj.com/categories/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -466,14 +467,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/strings/</loc>
+    <loc>https://devbj.com/tags/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/strings/</loc>
+    <loc>https://devbj.com/categories/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -795,14 +796,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/vim/</loc>
+    <loc>https://devbj.com/tags/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/vim/</loc>
+    <loc>https://devbj.com/categories/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -837,14 +838,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/unittest/</loc>
+    <loc>https://devbj.com/categories/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/unittest/</loc>
+    <loc>https://devbj.com/tags/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

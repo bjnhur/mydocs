@@ -8,25 +8,53 @@
 <meta name="description" content="Documentation for Hugo Learn Theme">
 <meta name="author" content="Bongjun Hur">
 
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "https:\/\/devbj.com\/"
+    },
+    "articleSection" : "GoLangKorea",
+    "name" : "Golang의 내부, 6부: 부트스트래핑과 메모리 할당자",
+    "headline" : "Golang의 내부, 6부: 부트스트래핑과 메모리 할당자",
+    "description" : "이 포스트는 Golang 내부 시리즈의 연속이다. Go 런타임을 자세히 이해하는데 열쇠와 같은 부트스트랩 과정을 살펴볼 것이다. 이번에는 시작하는 순서의 두번째 부분을 섭렵해",
+
+
+
+
+
+
+    "copyrightYear" : "2016",
+    "datePublished": "2016-09-20 16:20:29 -0400 -0400",
+    "dateModified" : "2016-09-20 16:20:29 -0400 -0400",
+    "url" : "https:\/\/devbj.com\/golangkorea\/golang-internals\/part6\/",
+    "wordCount" : "5569",
+    "keywords" : [ "Golang","Internals","runtime","bootstrap","memory","allocator","Blog" ]
+}
+</script>
+
+
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 
     <title>Golang의 내부, 6부: 부트스트래핑과 메모리 할당자 :: DevBJ.com</title>
 
     
-    <link href="/css/nucleus.css?1582805199" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1582805199" rel="stylesheet">
-    <link href="/css/hybrid.css?1582805199" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1582805199" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1582805199" rel="stylesheet">
-    <link href="/css/auto-complete.css?1582805199" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1582805199" rel="stylesheet">
-    <link href="/css/theme.css?1582805199" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1582805199" rel="stylesheet">
+    <link href="/css/nucleus.css?1583104152" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1583104152" rel="stylesheet">
+    <link href="/css/hybrid.css?1583104152" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1583104152" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1583104152" rel="stylesheet">
+    <link href="/css/auto-complete.css?1583104152" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1583104152" rel="stylesheet">
+    <link href="/css/theme.css?1583104152" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1583104152" rel="stylesheet">
     
-      <link href="/css/theme-blue.css?1582805199" rel="stylesheet">
+      <link href="/css/theme-blue.css?1583104152" rel="stylesheet">
     
 
-    <script src="/js/jquery-3.3.1.min.js?1582805199"></script>
+    <script src="/js/jquery-3.3.1.min.js?1583104152"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -128,14 +156,14 @@ h2 {
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1582805199"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1582805199"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1583104152"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1583104152"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/devbj.com\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1582805199"></script>
+<script type="text/javascript" src="/js/search.js?1583104152"></script>
 
 
 
@@ -2695,19 +2723,19 @@ h2 {
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1582805199"></script>
-    <script src="/js/perfect-scrollbar.min.js?1582805199"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1582805199"></script>
-    <script src="/js/jquery.sticky.js?1582805199"></script>
-    <script src="/js/featherlight.min.js?1582805199"></script>
-    <script src="/js/highlight.pack.js?1582805199"></script>
+    <script src="/js/clipboard.min.js?1583104152"></script>
+    <script src="/js/perfect-scrollbar.min.js?1583104152"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1583104152"></script>
+    <script src="/js/jquery.sticky.js?1583104152"></script>
+    <script src="/js/featherlight.min.js?1583104152"></script>
+    <script src="/js/highlight.pack.js?1583104152"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1582805199"></script>
-    <script src="/js/learn.js?1582805199"></script>
-    <script src="/js/hugo-learn.js?1582805199"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1583104152"></script>
+    <script src="/js/learn.js?1583104152"></script>
+    <script src="/js/hugo-learn.js?1583104152"></script>
 
-    <link href="/mermaid/mermaid.css?1582805199" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1582805199"></script>
+    <link href="/mermaid/mermaid.css?1583104152" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1583104152"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>

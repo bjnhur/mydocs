@@ -14,6 +14,13 @@
 	"content": "naver.com "
 },
 {
+	"uri": "https://devbj.com/wizfi360/",
+	"title": "WizFi360 소개페이지",
+	"tags": ["WizFi", "WizFi360", "WiFi", "W5500", "IoT", "embedded", "Ethernet", "W5100", "Arduino", "AVR"],
+	"description": "WizFi360 overview and technical notes",
+	"content": "Overview WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. It is compatible with the IEEE802.11 b/g/n standard and supports SoftAP, Station and SoftAP+Station modes. The serial port baud rate can be up to 2Mbps, which can meet the requirement of various applications.\nFeature  WiFi 2.4G, 802.11 b/g/n Support Station / SoftAP / SoftAP+Station operation modes Support “Data pass-through” and “AT command data transfer” mode Support serial AT command configuration Support TCP Server / TCP Client / UDP operating mode Support configuration of operating channel 0 ~ 13 Support auto 20MHz / 40MHz bandwidth Support WPA_PSK / WPA2_PSK encryption Serial port baud rate up from 600bps to 2Mbps with 16 common values Support up to 5 TCP / UDP links Obtaining IP address automatically from the DHCP server (Station mode) DHCP service for Wireless LAN clients (AP mode) Support DNS for communication with servers by domain name Support “Keep-Alive” to monitor TCP connection Support “Ping” for monitoring network status Built-in SNTP client for receiving the network time Support built-in unique MAC address and user configurable Support firmware upgrade by UART Download / OTA (via WLAN) Industrial grade (operating temperature range: -40 ° C ~ 85 ° C) CE, FCC, KC, Telec certification  Details  Documents  Datasheet : A brief introduction to WizFi360. These documents describe the features, package information and etc. AT Instruction set : It describes the AT Command of WizFi360 and you can confirm the return message by AT command of WizFi360. AT command Example : It includes the Basic example using AT command and it is examples of TCP, UDP, SSL use. Quick Start Guide : The examples using the WizFi360-EVB or WizFi360io, it describes the scenarios in order from Hardware setting to an example of AT command usage Firmware Update Guide : The method of using how to upload firmware Application Notes : The example of Application, TCP/UDP, etc test using the Arduino AT Command Comparison Sheet : The AT command comparison with ESP8266 chip Ref schematic : Support the schematic of WizFi360-EVB to Gerber, Partlist, Schematic format.   For more information visit the wizfi/Release   Q \u0026amp; A  WizFi360 Forum - For technical support  "
+},
+{
 	"uri": "https://devbj.com/golangkorea/go-walkthrough/bytes-strings-packages/",
 	"title": "Go 둘러보기 - bytes + strings 패키지",
 	"tags": ["Golang", "Bytes", "Strings", "Package"],
@@ -47,13 +54,6 @@
 	"tags": ["beginning"],
 	"description": "",
 	"content": " 본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다.\n Go 시작하기\n페이지 리스트  Go언어 시작하기  Go 언어에 대해서 구글이 2009년에 만든 비교적 새로운 프로그래밍 언어다. 2009년이면 거의 7년 이상된 구닥다리 언어잖아? 라고 생각 할 수 있겠으나, Rub\n Go의 주요 특징들  단순함 Go 언어는 단순함(simplicity)과 실용성(pragmatism)을 지향하는 언어로 이 두가지 철학이 다른 모든 것들 보다 상위에 있다. go 언어\n Go와 객체지향  객체지향 프로그래밍 Go는 클래스(Class)가 없다!! Struct가 Class의 역할을 수행 할 수 있기는 하지만 메서드도 구조체로부터 분리되는 구성을\n "
-},
-{
-	"uri": "https://devbj.com/wizfi360/",
-	"title": "WizFi360 소개페이지",
-	"tags": [],
-	"description": "",
-	"content": "Overview WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. It is compatible with the IEEE802.11 b/g/n standard and supports SoftAP, Station and SoftAP+Station modes. The serial port baud rate can be up to 2Mbps, which can meet the requirement of various applications.\nFeature  WiFi 2.4G, 802.11 b/g/n Support Station / SoftAP / SoftAP+Station operation modes Support “Data pass-through” and “AT command data transfer” mode Support serial AT command configuration Support TCP Server / TCP Client / UDP operating mode Support configuration of operating channel 0 ~ 13 Support auto 20MHz / 40MHz bandwidth Support WPA_PSK / WPA2_PSK encryption Serial port baud rate up from 600bps to 2Mbps with 16 common values Support up to 5 TCP / UDP links Obtaining IP address automatically from the DHCP server (Station mode) DHCP service for Wireless LAN clients (AP mode) Support DNS for communication with servers by domain name Support “Keep-Alive” to monitor TCP connection Support “Ping” for monitoring network status Built-in SNTP client for receiving the network time Support built-in unique MAC address and user configurable Support firmware upgrade by UART Download / OTA (via WLAN) Industrial grade (operating temperature range: -40 ° C ~ 85 ° C) CE, FCC, KC, Telec certification  Details  Documents  Datasheet : A brief introduction to WizFi360. These documents describe the features, package information and etc. AT Instruction set : It describes the AT Command of WizFi360 and you can confirm the return message by AT command of WizFi360. AT command Example : It includes the Basic example using AT command and it is examples of TCP, UDP, SSL use. Quick Start Guide : The examples using the WizFi360-EVB or WizFi360io, it describes the scenarios in order from Hardware setting to an example of AT command usage Firmware Update Guide : The method of using how to upload firmware Application Notes : The example of Application, TCP/UDP, etc test using the Arduino AT Command Comparison Sheet : The AT command comparison with ESP8266 chip Ref schematic : Support the schematic of WizFi360-EVB to Gerber, Partlist, Schematic format.   For more information visit the wizfi/Release   Q \u0026amp; A  WizFi360 Forum - For technical support  "
 },
 {
 	"uri": "https://devbj.com/hugolearntheme/mytips/",
@@ -263,7 +263,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": "Home 🔧🕯 현재, 공사중입니다. 휴고를 지원하는 블로그 플랫폼을 변경중입니다. 문서를 깔끔하게 보여주는 테마를 괜히 선정해서, 고생중에 있습니다. 마크다운으로 작성된 글을 최대한 편하게 보일 수 있도록 테마도 약간씩 수정중이어서, 홈페이지가 지저분 할 예정입니다. 빨리 업데이트 합시다\n 페이지 리스트  WizFi360 소개페이지  Overview WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. It is compatible with the IEEE802.11 b/g/n standard and supports SoftAP, Station and SoftAP+Station modes. The serial port baud rate can be up to 2Mbps, which can meet the requirement of various applications. Feature WiFi 2.4G, 802.11 b/g/n Support Station / SoftAP / SoftAP+Station operation modes Support “Data pass-t\n Blog  블로그 글 모음 - 기술, 생각\n Learn Theme for Hugo  Hugo learn theme 자세한 설명은 테마 설명 페이지 로 이동해서 보세요.여기는 이 소개 페이지만 두고, 나머지는 삭제했습니다. Hugo-theme-learn is a theme for Hugo , a fast and modern static website engine written in Go. Where Hugo is often\n GoLang Korea  본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다. The Slow Hunch Where Good\n "
+	"content": "Home 🔧🕯 현재, 공사중입니다. 휴고를 지원하는 블로그 플랫폼을 변경중입니다. 문서를 깔끔하게 보여주는 테마를 괜히 선정해서, 고생중에 있습니다. 마크다운으로 작성된 글을 최대한 편하게 보일 수 있도록 테마도 약간씩 수정중이어서, 홈페이지가 지저분 할 예정입니다. 빨리 업데이트 합시다\n 페이지 리스트  WizFi360 소개페이지  WizFi360 overview and technical notes\n Blog  블로그 글 모음 - 기술, 생각\n Learn Theme for Hugo  Hugo learn theme 자세한 설명은 테마 설명 페이지 로 이동해서 보세요.여기는 이 소개 페이지만 두고, 나머지는 삭제했습니다. Hugo-theme-learn is a theme for Hugo , a fast and modern static website engine written in Go. Where Hugo is often\n GoLang Korea  본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다. The Slow Hunch Where Good\n "
 },
 {
 	"uri": "https://devbj.com/blog/2020/mermaid/",
@@ -448,14 +448,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/bytes/",
+	"uri": "https://devbj.com/tags/bytes/",
 	"title": "Bytes",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/bytes/",
+	"uri": "https://devbj.com/categories/bytes/",
 	"title": "Bytes",
 	"tags": [],
 	"description": "",
@@ -469,14 +469,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/strings/",
+	"uri": "https://devbj.com/tags/strings/",
 	"title": "Strings",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/strings/",
+	"uri": "https://devbj.com/categories/strings/",
 	"title": "Strings",
 	"tags": [],
 	"description": "",
@@ -798,14 +798,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/vim/",
+	"uri": "https://devbj.com/tags/vim/",
 	"title": "vim",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/vim/",
+	"uri": "https://devbj.com/categories/vim/",
 	"title": "vim",
 	"tags": [],
 	"description": "",
@@ -840,14 +840,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/unittest/",
+	"uri": "https://devbj.com/categories/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/unittest/",
+	"uri": "https://devbj.com/tags/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
