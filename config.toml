@@ -33,6 +33,10 @@ disqusShortname = "ghdevbj"
   # When using mulitlingual website, disable the switch language button.
   disableLanguageSwitchingButton = true
 
+[author]
+  name = "Bongjun Hur"
+  homepage = "https://bjnhur.github.io/"
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
