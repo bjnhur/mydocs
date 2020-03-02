@@ -142,6 +142,13 @@
   </url>
   
   <url>
+    <loc>https://devbj.com/wizfi360/w600/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://devbj.com/blog/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -171,12 +178,6 @@
   
   <url>
     <loc>https://devbj.com/wizfi360/docs/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/wizfi360/w600/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -243,6 +244,13 @@
   </url>
   
   <url>
+    <loc>https://devbj.com/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://devbj.com/blog/2020/button/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -251,13 +259,6 @@
   
   <url>
     <loc>https://devbj.com/blog/2020/expand/</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -481,14 +482,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/io/</loc>
+    <loc>https://devbj.com/categories/io/</loc>
     <lastmod>2016-10-26T02:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/io/</loc>
+    <loc>https://devbj.com/tags/io/</loc>
     <lastmod>2016-10-26T02:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -796,14 +797,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/vim/</loc>
+    <loc>https://devbj.com/categories/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/vim/</loc>
+    <loc>https://devbj.com/tags/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
