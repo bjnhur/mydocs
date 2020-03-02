@@ -448,14 +448,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/bytes/",
+	"uri": "https://devbj.com/tags/bytes/",
 	"title": "Bytes",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/bytes/",
+	"uri": "https://devbj.com/categories/bytes/",
 	"title": "Bytes",
 	"tags": [],
 	"description": "",
@@ -469,13 +469,6 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/strings/",
-	"title": "Strings",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://devbj.com/categories/strings/",
 	"title": "Strings",
 	"tags": [],
@@ -483,14 +476,21 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/io/",
-	"title": "IO",
+	"uri": "https://devbj.com/tags/strings/",
+	"title": "Strings",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
 	"uri": "https://devbj.com/tags/io/",
+	"title": "IO",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://devbj.com/categories/io/",
 	"title": "IO",
 	"tags": [],
 	"description": "",
@@ -798,14 +798,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/vim/",
+	"uri": "https://devbj.com/tags/vim/",
 	"title": "vim",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/vim/",
+	"uri": "https://devbj.com/categories/vim/",
 	"title": "vim",
 	"tags": [],
 	"description": "",
@@ -840,14 +840,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/unittest/",
+	"uri": "https://devbj.com/categories/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/unittest/",
+	"uri": "https://devbj.com/tags/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
