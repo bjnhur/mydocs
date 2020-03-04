@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethernet on DevBJ.com</title>
+    <link>https://devbj.com/categories/ethernet/</link>
+    <description>Recent content in Ethernet on DevBJ.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Mar 2020 15:52:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://devbj.com/categories/ethernet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to use</title>
+      <link>https://devbj.com/wiznetarduinoethernet/howtouse/</link>
+      <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
+      
+      <guid>https://devbj.com/wiznetarduinoethernet/howtouse/</guid>
+      <description>[IPv6] How to use Arduino Ethernet Library IPv6 (WIZnet Ethernet Library) Arduino Ethernet Library - Default You already installed Arduino IDE, you can use Ethernet Library as default.
+Just you can run the Arduino IDE, and Choose File -&amp;gt; Examples -&amp;gt; Ethernet -&amp;gt; AdvancedChatServer.
+The following is default Ethernet Library Example AdvancedChatServer.
+The default Ethernet Library are located on &amp;ldquo;C:\Program Files (x86)\Arduino\libraries\Ethernet&amp;rdquo;
+And the default User Library are located on &amp;ldquo;C:\Users&#39;Your ID&amp;rsquo;\Documents\Arduino\libraries&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>W6100 IPv6 library</title>
+      <link>https://devbj.com/wiznetarduinoethernet/w6100/</link>
+      <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
+      
+      <guid>https://devbj.com/wiznetarduinoethernet/w6100/</guid>
+      <description>W6100 IPv6 The IPv6 Branch.
+Test your IPv6 connectivity First, you should check your IPv6 network is available.
+Check your IPv6 connectivity  from ipv6-test.com(USA)    from test-ipv6.cz   Download WIZnet Ethernet Library Fork or download WIZnet Ethernet Library
+ How to use Arduino Ethernet Library IPv6 (WIZnet Ethernet Library)   Set Network Information Set your IPv6 Network information.
+  mac
+MAC Address
+  ip6_lla</description>
+    </item>
+    
+  </channel>
+</rss>
