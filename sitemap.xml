@@ -279,14 +279,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/arduino/</loc>
+    <loc>https://devbj.com/categories/arduino/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/arduino/</loc>
+    <loc>https://devbj.com/tags/arduino/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -300,14 +300,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/ethernet/</loc>
+    <loc>https://devbj.com/tags/ethernet/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/ethernet/</loc>
+    <loc>https://devbj.com/categories/ethernet/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -902,14 +902,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/unittest/</loc>
+    <loc>https://devbj.com/categories/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/unittest/</loc>
+    <loc>https://devbj.com/tags/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

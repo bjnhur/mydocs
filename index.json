@@ -280,14 +280,14 @@
 	"content": "Test "
 },
 {
-	"uri": "https://devbj.com/tags/arduino/",
+	"uri": "https://devbj.com/categories/arduino/",
 	"title": "Arduino",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/arduino/",
+	"uri": "https://devbj.com/tags/arduino/",
 	"title": "Arduino",
 	"tags": [],
 	"description": "",
@@ -301,14 +301,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/ethernet/",
+	"uri": "https://devbj.com/tags/ethernet/",
 	"title": "Ethernet",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/ethernet/",
+	"uri": "https://devbj.com/categories/ethernet/",
 	"title": "Ethernet",
 	"tags": [],
 	"description": "",
@@ -903,14 +903,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/unittest/",
+	"uri": "https://devbj.com/categories/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/unittest/",
+	"uri": "https://devbj.com/tags/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
