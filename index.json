@@ -361,7 +361,7 @@
 	"title": "Button",
 	"tags": [],
 	"description": "Nice buttons on your page.",
-	"content": "A button is a just a clickable button with optional icon.\n{{% button href=\u0026quot;https://getgrav.org/\u0026quot; %}}Get Grav{{% /button %}} {{% button href=\u0026quot;https://getgrav.org/\u0026quot; icon=\u0026quot;fas fa-download\u0026quot; %}}Get Grav with icon{{% /button %}} {{% button href=\u0026quot;https://getgrav.org/\u0026quot; icon=\u0026quot;fas fa-download\u0026quot; icon-position=\u0026quot;right\u0026quot; %}}Get Grav with icon right{{% /button %}}  Get Grav   Get Grav with icon  Get Grav with icon right   북마크  테스트     (adsbygoogle = window.adsbygoogle || []).push({});   아래글 문제 없이 "
+	"content": "A button is a just a clickable button with optional icon.\n{{% button href=\u0026quot;https://getgrav.org/\u0026quot; %}}Get Grav{{% /button %}} {{% button href=\u0026quot;https://getgrav.org/\u0026quot; icon=\u0026quot;fas fa-download\u0026quot; %}}Get Grav with icon{{% /button %}} {{% button href=\u0026quot;https://getgrav.org/\u0026quot; icon=\u0026quot;fas fa-download\u0026quot; icon-position=\u0026quot;right\u0026quot; %}}Get Grav with icon right{{% /button %}}  Get Grav   Get Grav with icon  Get Grav with icon right   북마크  테스트    (adsbygoogle = window.adsbygoogle || []).push({});   아래글 문제 없이 "
 },
 {
 	"uri": "https://devbj.com/blog/2020/expand/",
@@ -903,14 +903,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/unittest/",
+	"uri": "https://devbj.com/tags/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/unittest/",
+	"uri": "https://devbj.com/categories/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
