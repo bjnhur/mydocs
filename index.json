@@ -200,7 +200,7 @@
 	"title": "TIL",
 	"tags": ["til"],
 	"description": "",
-	"content": " 본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다.\n TIL 글 모음  20200304     "
+	"content": " 본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다.\n TIL 글 모음  git usage     "
 },
 {
 	"uri": "https://devbj.com/golangkorea/go-walkthrough/",
@@ -273,21 +273,14 @@
 	"content": " 본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다.\n The Slow Hunch Where Good Ideas Come From: The Natural History of Innovation 의 저자 Steven B. Johnson에 따르면 인류의 역사를 바꾼 혁신들은 번뜩이는 아이디어에서 시작된 경우가 매우 드물다고 합니다. 대개는 개개인의 작은 아이디어들이 오랜 시간에 걸쳐 다른 사람이 갖고 있는 비슷하거나 전혀 다른 아이디어들과 충돌하고 결합하면서 커뮤니티의 지능으로 진화하고 어느 순간 돌이킬 수 없는 변화의 모멘텀을 형성하며 세상을 바꿉니다. 커뮤니티내에 공유되고 있는 지능이 다시 역으로 개개인에게 영감과 비젼을 제시하는 상호작용을 일으키게 되는데 그런 과정은 통해 아이디어의 생산을 가능케하는 현상을 slow hunch라고 부릅니다.\n새로 시작하는 Golang Korean 커뮤니티 웹사이트(이하 GoSudaWeb)은 프로그래밍 언어인 Go와 퉅들, 글로벌 개발자 커뮤니티내의 트랜드와 최선의 개발방식에 대한 소개를 블로그와 뉴스레터의 형식을 통해 공유하고자 첫발을 내딛었습니다. 지속적인 지식의 축적과 폭 넗은 공유가 이루어지는 웹사이트로 성장하여 미래의 킬러앱과 킬러 아이디어를 만들어내는 slow hunch에 기여할 수 있기를 기대해 봅니다. 많은 성원 부탁드립니다.\n콘텐트 제작 및 웹사이트 개발 참여 신청 GosudaWeb은 Github Page 로 제작되고 모든 소스와 제작과정이 공개로 이루어 집니다: https://github.com/golangkorea .\n사이트에 포스트하기를 원하시는 분들은 사이트에 블로그 올리는 방법 을 참조하시길 바랍니다.\nHugo를 이용해 사이트 개발에 참여하거나 golangkorea Organization에 오픈소스 프로젝트를 시작하시고 싶으신 분들은 멤버 신청을 하실 수 있습니다. 멤버 신청은 golanginkorea@gmail.com 이나 Golang Korean Community / Lobby 로 해 주시면 됩니다. 일단 멤버로 등록되면 golangkorea-website team 을 통해 개발에 참여하실 수 있습니다.\n토론방 golangkorea.github.io 개발, 유지 보수 및 지원에 대한 토론은 Gitter Room 을 통해 하고 있으니 많은 동참 바라겠습니다.\n"
 },
 {
-	"uri": "https://devbj.com/til/20200304/",
-	"title": "20200304",
-	"tags": ["til"],
-	"description": "",
-	"content": "Test "
-},
-{
-	"uri": "https://devbj.com/categories/arduino/",
+	"uri": "https://devbj.com/tags/arduino/",
 	"title": "Arduino",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/arduino/",
+	"uri": "https://devbj.com/categories/arduino/",
 	"title": "Arduino",
 	"tags": [],
 	"description": "",
@@ -301,6 +294,13 @@
 	"content": ""
 },
 {
+	"uri": "https://devbj.com/categories/ethernet/",
+	"title": "Ethernet",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://devbj.com/tags/ethernet/",
 	"title": "Ethernet",
 	"tags": [],
@@ -308,8 +308,22 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/ethernet/",
-	"title": "Ethernet",
+	"uri": "https://devbj.com/tags/git/",
+	"title": "git",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://devbj.com/til/gitusage/",
+	"title": "git usage",
+	"tags": ["til", "git", "github"],
+	"description": "자주 사용하는 깃 명령어 모음",
+	"content": " 본 문서는 Git 에서 자주 사용하는 명령어를 정리해 둔, https://github.com/jeonghwan-kim/git-usage 글을 가져온 것입니다. 추가로 사용하다가 정리할 부분이 있으면 수정하려고 합니다.저자에게 감사한 마음으로, 원본 글로 방문하여 읽으시는 것도 추천해 드립니다.\n git-usage 자주 사용하는 깃 명령어 모음\n구조 코드는 아래 세 단계에 걸쳐 저장된다.\n스테이징 -\u0026gt; 커밋 -\u0026gt; 원격저장소\n git add {파일명} 으로 파일을 스테이징 상태에 넣는다. git commit 으로 스테이징 상태에 있는 모든 변경사항을 커밋한다. 여기까지가 로컬에서의 작업 git push 로 커밋된 저장소를 원격 저장소로 밀어넣는다.  기본 명령어 저장소 생성\ngit init 원격 저장소로부터 복제\ngit clone {url} 변경 사항 체크\ngit status // 특정 파일 스테이징\ngit add {파일명} 변경된 모든 파일 스테이징\ngit add * 커밋\ngit commit -m “{변경 내용}” 원격으로 보내기\ngit push origin master 원격저장소 추가\ngit remote add origin {원격서버주소} 참고 페이지\n download(osx): http://code.google.com/p/git-osx-installer/downloads/list download(windows): http://git-scm.com/download/win 설치 메뉴얼: http://blog.outsider.ne.kr/389 사용 메뉴얼:http://dogfeet.github.io/articles/2012/how-to-github.html git 간편 안내서: http://rogerdudler.github.com/git-guide/index.ko.html 한장으로 핵심 기능만: http://rogerdudler.github.com/git-guide/files/git_cheat_sheet.pdf  Commit 커밋 합치기\ngit rebase -i HEAD~4 // 최신 4개의 커밋을 하나로 합치기 커밋 메세지 수정\n$ git commit --amend // 마지막 커밋메세지 수정(ref) 간단한 commit방법\n$ git add {변경한 파일병} $ git commit -m “{변경 내용}\u0026quot; 커밋 이력 확인\n$ git log // 모든 커밋로그 확인 $ git log -3 // 최근 3개 커밋로그 확인 $ git log --pretty=oneline // 각 커밋을 한 줄로 표시 $ git reflog // reset 혹은 rebase로 없어진 과거의 커밋 이력 확인 커밋 취소\n$ git reset HEAD^ // 마지막 커밋 삭제 $ git reset --hard HEAD // 마지막 커밋 상태로 되돌림 $ git reset HEAD * // 스테이징을 언스테이징으로 변경, ref Branch master 브랜치를 특정 커밋으로 옮기기\ngit checkout better_branch git merge --strategy=ours master # keep the content of this branch, but record a merge git checkout master git merge better_branch # fast-forward master up to the merge 브랜치 목록\n$ git branch // 로컬 $ git branch -r // 리모트 $ git branch -a // 로컬, 리모트 포함된 모든 브랜치 보기 브랜치 생성\ngit branch new master // master -\u0026gt; new 브랜치 생성 git push origin new // new 브랜치를 리모트로 보내기 브랜치 삭제\ngit branch -D {삭제할 브랜치 명} // local git push origin :{the_remote_branch} // remote 빈 브랜치 생성\n$ git checkout --orphan {새로운 브랜치 명} $ git commit -a // 커밋해야 새로운 브랜치 생성됨 $ git checkout -b new-branch // 브랜치 생성과 동시에 체크아웃 리모트 브랜치 가져오기\n$ git checkout -t origin/{가져올 브랜치명} // ref 브랜치 이름 변경\n$ git branch -m {new name} // ref Tag 태그 생성\ngit tag -a {tag name} -m {tag message} {commit hash} git tag {tag name} {tag name} -f -m \u0026quot;{new message}\u0026quot; // Edit tag message 태그 삭제\ngit tag -d {tag name} git push origin :tags/{tag name} // remote 태그 푸시\ngit push origin --tags git push origin {tag name} git push --tags 기타 파일 삭제\ngit rm --cached --ignore-unmatch [삭제할 파일명] 히스토리 삭제\n 목적: 패스워드, 아이디 같은 비공개 정보가 담긴 파일을 실수로 올렸을 때 삭제하는 방법이다. (history에서도 해당 파일만 삭제)  $ git clone [url] # 소스 다운로드 $ cd [foler_name] # 해당 폴더 이동 $ git filter-branch --index-filter 'git rm --cached --ignore-unmatch [삭제할 파일명]' --prune-empty -- --all # 모든 히스토리에서 해당 파일 삭제 $ git push origin master --force # 서버로 전송 히스토리에서 폴더 삭제:\ngit filter-branch --tree-filter 'rm -rf vendor/gems' HEAD 리모트 주소 추가하여 로컬에 싱크하기\n$ git remote add upstream {리모트 주소} $ git pull upstream {브랜치명} 최적화\n$ git gc $ git gc --aggressive 서버 설정 강제 푸시 설정\ngit config receive.denynonfastforwards false Alias ~/.gitconfig 파일을 설정하여 깃 명령어의 앨리어스를 지정할 수 있다.\n~/.gitconfig \u0026gt; alias 부분:\n [alias] br = branch co = checkout rb = rebase st = status cm = commit pl = pull ps = push lg = log --graph --abbrev-commit --decorate --format=format:'%C(cyan)%h%C(reset) - %C(green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(yellow)%d%C(reset)' --all ad = add tg = tag df = diff "
+},
+{
+	"uri": "https://devbj.com/tags/github/",
+	"title": "github",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -319,7 +333,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": "Home 🔧🕯 현재, 공사중입니다. 휴고를 지원하는 블로그 플랫폼을 변경중입니다. 문서를 깔끔하게 보여주는 테마를 괜히 선정해서, 고생중에 있습니다. 마크다운으로 작성된 글을 최대한 편하게 보일 수 있도록 테마도 약간씩 수정중이어서, 홈페이지가 지저분 할 예정입니다. 빨리 업데이트 합시다\n 페이지 리스트  WizFi360 소개페이지  WizFi360 overview and technical notes\n Blog  블로그 글 모음 - 기술, 생각\n TIL  본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다. TIL 글 모음 20200304\n WIZnet Arduino Ethernet Library  Welcome to the WIZnet Ethernet wiki! WIZnet Ethernet Library for Arduino From Ethernet Library for Arduino @4f4ac17 Branches master Head Branch. W5100S For WIZnet iEthernet W5100S , W5100S (MKR-)Ethernet Shield support. W5100S Ethernet Shield W5100S MKR-Ethernet Shield W6100 - supports W6100 chipset, both IPv4 and IPv6 separately. For WIZnet iEthernet W6100 , W6100 (MKR-)Ethernet Shield support. W6100 Ethernet Shield\n Learn Theme for Hugo  Hugo learn theme 자세한 설명은 테마 설명 페이지 로 이동해서 보세요.여기는 이 소개 페이지만 두고, 나머지는 삭제했습니다. Hugo-theme-learn is a theme for Hugo , a fast and modern static website engine written in Go. Where Hugo is often\n GoLang Korea  본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다. The Slow Hunch Where Good\n "
+	"content": "Home 🔧🕯 현재, 공사중입니다. 휴고를 지원하는 블로그 플랫폼을 변경중입니다. 문서를 깔끔하게 보여주는 테마를 괜히 선정해서, 고생중에 있습니다. 마크다운으로 작성된 글을 최대한 편하게 보일 수 있도록 테마도 약간씩 수정중이어서, 홈페이지가 지저분 할 예정입니다. 빨리 업데이트 합시다\n 페이지 리스트  WizFi360 소개페이지  WizFi360 overview and technical notes\n Blog  블로그 글 모음 - 기술, 생각\n TIL  본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다. TIL 글 모음 git\n WIZnet Arduino Ethernet Library  Welcome to the WIZnet Ethernet wiki! WIZnet Ethernet Library for Arduino From Ethernet Library for Arduino @4f4ac17 Branches master Head Branch. W5100S For WIZnet iEthernet W5100S , W5100S (MKR-)Ethernet Shield support. W5100S Ethernet Shield W5100S MKR-Ethernet Shield W6100 - supports W6100 chipset, both IPv4 and IPv6 separately. For WIZnet iEthernet W6100 , W6100 (MKR-)Ethernet Shield support. W6100 Ethernet Shield\n Learn Theme for Hugo  Hugo learn theme 자세한 설명은 테마 설명 페이지 로 이동해서 보세요.여기는 이 소개 페이지만 두고, 나머지는 삭제했습니다. Hugo-theme-learn is a theme for Hugo , a fast and modern static website engine written in Go. Where Hugo is often\n GoLang Korea  본 문서는 본 사이트를 제작하면서, 참고한 markdown 문서로 Golang Korean Community 사이트에서 가져온 글입니다. 꼭 원본글이 있는 golangkorea.github.io 로 방문하여 글을 읽으시길 추천해 드립니다. The Slow Hunch Where Good\n "
 },
 {
 	"uri": "https://devbj.com/tags/ipv6/",
@@ -483,14 +497,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/encoding/",
+	"uri": "https://devbj.com/categories/encoding/",
 	"title": "Encoding",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/encoding/",
+	"uri": "https://devbj.com/tags/encoding/",
 	"title": "Encoding",
 	"tags": [],
 	"description": "",
@@ -511,14 +525,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/bytes/",
+	"uri": "https://devbj.com/tags/bytes/",
 	"title": "Bytes",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/bytes/",
+	"uri": "https://devbj.com/categories/bytes/",
 	"title": "Bytes",
 	"tags": [],
 	"description": "",
@@ -532,14 +546,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/strings/",
+	"uri": "https://devbj.com/tags/strings/",
 	"title": "Strings",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/strings/",
+	"uri": "https://devbj.com/categories/strings/",
 	"title": "Strings",
 	"tags": [],
 	"description": "",
@@ -861,14 +875,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/vim/",
+	"uri": "https://devbj.com/tags/vim/",
 	"title": "vim",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/vim/",
+	"uri": "https://devbj.com/categories/vim/",
 	"title": "vim",
 	"tags": [],
 	"description": "",
@@ -903,14 +917,14 @@
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/tags/unittest/",
+	"uri": "https://devbj.com/categories/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://devbj.com/categories/unittest/",
+	"uri": "https://devbj.com/tags/unittest/",
 	"title": "UnitTest",
 	"tags": [],
 	"description": "",

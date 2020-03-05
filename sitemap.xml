@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/til/20200304/</loc>
+    <loc>https://devbj.com/tags/arduino/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -286,14 +286,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/arduino/</loc>
+    <loc>https://devbj.com/categories/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/</loc>
+    <loc>https://devbj.com/categories/ethernet/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -307,7 +307,21 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/ethernet/</loc>
+    <loc>https://devbj.com/tags/git/</loc>
+    <lastmod>2020-03-04T15:52:25+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/til/gitusage/</loc>
+    <lastmod>2020-03-04T15:52:25+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/tags/github/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -482,14 +496,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/encoding/</loc>
+    <loc>https://devbj.com/categories/encoding/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/encoding/</loc>
+    <loc>https://devbj.com/tags/encoding/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -510,14 +524,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/bytes/</loc>
+    <loc>https://devbj.com/tags/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/bytes/</loc>
+    <loc>https://devbj.com/categories/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -531,14 +545,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/strings/</loc>
+    <loc>https://devbj.com/tags/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/strings/</loc>
+    <loc>https://devbj.com/categories/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -860,14 +874,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/vim/</loc>
+    <loc>https://devbj.com/tags/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/vim/</loc>
+    <loc>https://devbj.com/categories/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -902,14 +916,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/unittest/</loc>
+    <loc>https://devbj.com/categories/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/unittest/</loc>
+    <loc>https://devbj.com/tags/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
