@@ -6,10 +6,46 @@
     <description>Recent content in Tags on DevBJ.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Mar 2020 15:52:25 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://devbj.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>git</title>
+      <link>https://devbj.com/tags/git/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devbj.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://devbj.com/tags/github/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devbj.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>howto</title>
+      <link>https://devbj.com/tags/howto/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devbj.com/tags/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://devbj.com/tags/tutorial/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devbj.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arduino</title>
@@ -26,24 +62,6 @@
       <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
       
       <guid>https://devbj.com/tags/ethernet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://devbj.com/tags/git/</link>
-      <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
-      
-      <guid>https://devbj.com/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>https://devbj.com/tags/github/</link>
-      <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
-      
-      <guid>https://devbj.com/tags/github/</guid>
       <description></description>
     </item>
     

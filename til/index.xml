@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>git introduction</title>
+      <link>https://devbj.com/til/gitintro/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devbj.com/til/gitintro/</guid>
+      <description>Start using Git on the command line While GitLab has a powerful user interface, if you want to use Git itself, you will have to do so from the command line. If you want to start using Git and GitLab together, make sure that you have created and/or signed into an account on GitLab. Open a shell Depending on your operating system, you will need to use a shell of</description>
+    </item>
+    
+    <item>
       <title>git usage</title>
       <link>https://devbj.com/til/gitusage/</link>
       <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>

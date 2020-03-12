@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devbj.com/til/gitintro/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://devbj.com/blog/2020/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -272,6 +279,62 @@
   </url>
   
   <url>
+    <loc>https://devbj.com/categories/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/tags/git/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/tags/github/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/tags/howto/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/categories/learn/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/tags/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://devbj.com/tags/tutorial/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://devbj.com/tags/arduino/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -280,13 +343,6 @@
   
   <url>
     <loc>https://devbj.com/categories/arduino/</loc>
-    <lastmod>2020-03-04T15:52:25+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/categories/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -307,13 +363,6 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/git/</loc>
-    <lastmod>2020-03-04T15:52:25+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://devbj.com/til/gitusage/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -321,35 +370,7 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/github/</loc>
-    <lastmod>2020-03-04T15:52:25+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/</loc>
-    <lastmod>2020-03-04T15:52:25+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://devbj.com/tags/ipv6/</loc>
-    <lastmod>2020-03-04T15:52:25+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/categories/learn/</loc>
-    <lastmod>2020-03-04T15:52:25+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://devbj.com/tags/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -496,14 +517,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/encoding/</loc>
+    <loc>https://devbj.com/tags/encoding/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/encoding/</loc>
+    <loc>https://devbj.com/categories/encoding/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -545,14 +566,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/strings/</loc>
+    <loc>https://devbj.com/categories/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/strings/</loc>
+    <loc>https://devbj.com/tags/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -874,14 +895,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/vim/</loc>
+    <loc>https://devbj.com/categories/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/vim/</loc>
+    <loc>https://devbj.com/tags/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -902,14 +923,14 @@
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/tdd/</loc>
+    <loc>https://devbj.com/tags/tdd/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/tdd/</loc>
+    <loc>https://devbj.com/categories/tdd/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
