@@ -1,10 +1,11 @@
 ---
-title: "git usage"
+title: "git introduction"
 date: 2020-03-12
 draft: false
+weight: 1
 categories: ["Learn"]
 tags: ["howto","tutorial","git","github"]
-excerpt: "깃 사용하기 예제"
+excerpt: "깃 소개하기"
 ---
 
 # Start using Git on the command line
