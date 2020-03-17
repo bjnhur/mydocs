@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2020 on DevBJ.com</title>
-    <link>https://devbj.com/blog/2020/</link>
-    <description>Recent content in 2020 on DevBJ.com</description>
+    <title>2020 on DevBJ.com Documentation</title>
+    <link>https://bjnhur.github.io/mydocs/blog/2020/</link>
+    <description>Recent content in 2020 on DevBJ.com Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devbj.com/blog/2020/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bjnhur.github.io/mydocs/blog/2020/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown Writer</title>
-      <link>https://devbj.com/blog/2020/2020-02-26-markdownwrite/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/2020-02-26-markdownwrite/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/2020-02-26-markdownwrite/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/2020-02-26-markdownwrite/</guid>
       <description>naver.com Dropbox 페이퍼 자료 옮겨오기 외부에 옮겼을때 사진이 제대로 보여지는 지 확인해보자. 노션은 복사하면 그림이 제대로 보여지지 않는 단점이 있다. 드롭박스 페이퍼는 어떨</description>
     </item>
     
     <item>
       <title>Button</title>
-      <link>https://devbj.com/blog/2020/button/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/button/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/button/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/button/</guid>
       <description>A button is a just a clickable button with optional icon. {{% button href=&amp;quot;https://getgrav.org/&amp;quot; %}}Get Grav{{% /button %}} {{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fas fa-download&amp;quot; %}}Get Grav with icon{{% /button %}} {{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fas fa-download&amp;quot; icon-position=&amp;quot;right&amp;quot; %}}Get Grav with icon right{{% /button %}} Get Grav Get Grav with icon Get Grav with icon right 북마크 테스트 (adsbygoogle = window.adsbygoogle || []).push({}); 아래글 문제 없</description>
     </item>
     
     <item>
       <title>Expand</title>
-      <link>https://devbj.com/blog/2020/expand/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/expand/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/expand/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/expand/</guid>
       <description>The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example
   Expand me...   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
       <title>Mermaid</title>
-      <link>https://devbj.com/blog/2020/mermaid/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/mermaid/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/mermaid/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/mermaid/</guid>
       <description>Mermaid is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.
 Just insert your mermaid code in the mermaid shortcode and that&amp;rsquo;s it.
 Flowchart example {{&amp;lt;mermaid align=&amp;quot;left&amp;quot;&amp;gt;}} graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] {{&amp;lt; /mermaid &amp;gt;}}  renders as
@@ -53,10 +53,10 @@ graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{Decision} C --|One| D[
     
     <item>
       <title>노션 페이지 복사하기</title>
-      <link>https://devbj.com/blog/2020/notionpagecopy/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/notionpagecopy/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/notionpagecopy/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/notionpagecopy/</guid>
       <description>노션 페이지 복사하기 생각보다 까다로움, 아예 저자가 공용으로 사용해라고 공유해둔 노션페이지는 그냥 Duplicate 메뉴가 있어서 누르면 끝!! 아래 예제 페이지 처럼 복제할 수</description>
     </item>
     

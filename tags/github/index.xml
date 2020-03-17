@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>github on DevBJ.com</title>
-    <link>https://devbj.com/tags/github/</link>
-    <description>Recent content in github on DevBJ.com</description>
+    <title>github on DevBJ.com Documentation</title>
+    <link>https://bjnhur.github.io/mydocs/tags/github/</link>
+    <description>Recent content in github on DevBJ.com Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devbj.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bjnhur.github.io/mydocs/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>git introduction</title>
-      <link>https://devbj.com/til/gitintro/</link>
+      <link>https://bjnhur.github.io/mydocs/til/gitintro/</link>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/til/gitintro/</guid>
+      <guid>https://bjnhur.github.io/mydocs/til/gitintro/</guid>
       <description>Start using Git on the command line While GitLab has a powerful user interface, if you want to use Git itself, you will have to do so from the command line. If you want to start using Git and GitLab together, make sure that you have created and/or signed into an account on GitLab. Open a shell Depending on your operating system, you will need to use a shell of</description>
     </item>
     
     <item>
       <title>git usage</title>
-      <link>https://devbj.com/til/gitusage/</link>
+      <link>https://bjnhur.github.io/mydocs/til/gitusage/</link>
       <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
       
-      <guid>https://devbj.com/til/gitusage/</guid>
+      <guid>https://bjnhur.github.io/mydocs/til/gitusage/</guid>
       <description>본 문서는 Git 에서 자주 사용하는 명령어를 정리해 둔, https://github.com/jeonghwan-kim/git-usage 글을 가져온 것입니다. 추가로 사용하다가 정리할 부분이 있으면 수정하려고 합니다.저자에게 감사한 마음으로</description>
     </item>
     

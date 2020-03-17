@@ -1,220 +1,220 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on DevBJ.com</title>
-    <link>https://devbj.com/</link>
-    <description>Recent content in Home on DevBJ.com</description>
+    <title>Home on DevBJ.com Documentation</title>
+    <link>https://bjnhur.github.io/mydocs/</link>
+    <description>Recent content in Home on DevBJ.com Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://devbj.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bjnhur.github.io/mydocs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>git introduction</title>
-      <link>https://devbj.com/til/gitintro/</link>
+      <link>https://bjnhur.github.io/mydocs/til/gitintro/</link>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/til/gitintro/</guid>
+      <guid>https://bjnhur.github.io/mydocs/til/gitintro/</guid>
       <description>Start using Git on the command line While GitLab has a powerful user interface, if you want to use Git itself, you will have to do so from the command line. If you want to start using Git and GitLab together, make sure that you have created and/or signed into an account on GitLab. Open a shell Depending on your operating system, you will need to use a shell of</description>
     </item>
     
     <item>
       <title>Markdown Writer</title>
-      <link>https://devbj.com/blog/2020/2020-02-26-markdownwrite/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/2020-02-26-markdownwrite/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/2020-02-26-markdownwrite/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/2020-02-26-markdownwrite/</guid>
       <description>naver.com Dropbox 페이퍼 자료 옮겨오기 외부에 옮겼을때 사진이 제대로 보여지는 지 확인해보자. 노션은 복사하면 그림이 제대로 보여지지 않는 단점이 있다. 드롭박스 페이퍼는 어떨</description>
     </item>
     
     <item>
       <title>Go 둘러보기 - bytes &#43; strings 패키지</title>
-      <link>https://devbj.com/golangkorea/go-walkthrough/bytes-strings-packages/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/bytes-strings-packages/</link>
       <pubDate>Wed, 02 Nov 2016 18:30:33 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/go-walkthrough/bytes-strings-packages/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/bytes-strings-packages/</guid>
       <description>Go Walkthrough 시리즈의 Go Walkthrough: bytes + strings packages 를 번역한 글입니다. 우린 지난번 포스트 에서 바이트 스트림을 다뤄봤는데 가끔은 제한적인 범위에서, 인메모리 바이트 슬라이스를 가지고</description>
     </item>
     
     <item>
       <title>Golang의 내부, 1부: 주요 컨셉트와 프로젝트 구조</title>
-      <link>https://devbj.com/golangkorea/golang-internals/part1/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part1/</link>
       <pubDate>Tue, 13 Sep 2016 13:18:28 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/golang-internals/part1/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part1/</guid>
       <description>이 블로그 시리즈는 기본적인 Go 언어특성에 이미 익숙하며 좀 더 심도있게 내부구조를 알고자 하는 독자들을 위해 쓰여졌다. 이 포스트는 Go언어의 소스코드의 구조와 Go</description>
     </item>
     
     <item>
       <title>Go언어 시작하기</title>
-      <link>https://devbj.com/golangkorea/go-start/getting-start/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/go-start/getting-start/</link>
       <pubDate>Sun, 28 Aug 2016 15:10:07 +0830</pubDate>
       
-      <guid>https://devbj.com/golangkorea/go-start/getting-start/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/go-start/getting-start/</guid>
       <description>Go 언어에 대해서 구글이 2009년에 만든 비교적 새로운 프로그래밍 언어다. 2009년이면 거의 7년 이상된 구닥다리 언어잖아? 라고 생각 할 수 있겠으나, Rub</description>
     </item>
     
     <item>
       <title>시리즈 #1 - Hugo 시작하기</title>
-      <link>https://devbj.com/golangkorea/hugo-intro/getting-started/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/getting-started/</link>
       <pubDate>Tue, 23 Aug 2016 23:24:55 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/hugo-intro/getting-started/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/getting-started/</guid>
       <description>Hugo 시작하기 Hugo 는 Go로 제작되고 하나의 실행파일로 배포됩니다. 다양한 설치 방법이 있지만 우선 Package Manager를 쓰시는 분들을 중심으로 살펴보겠습니다. Package M</description>
     </item>
     
     <item>
       <title>사용팁</title>
-      <link>https://devbj.com/hugolearntheme/mytips/</link>
+      <link>https://bjnhur.github.io/mydocs/hugolearntheme/mytips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/hugolearntheme/mytips/</guid>
+      <guid>https://bjnhur.github.io/mydocs/hugolearntheme/mytips/</guid>
       <description>그냥 쓰다보면 꼭 그대로 잘 안되고 걸린다. 필요한 내용을 정리해 두자. 🥢 Hugo 활용시 팁 정리 _index.md 파일은 .Kind 는 .section 으로 선택되고, 레이아웃은 list.html 이 선택되어 변환된다. 테마</description>
     </item>
     
     <item>
       <title>Go 둘러보기 - encoding/json 패키지</title>
-      <link>https://devbj.com/golangkorea/go-walkthrough/encoding-json-package/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/encoding-json-package/</link>
       <pubDate>Sat, 03 Dec 2016 01:02:26 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/go-walkthrough/encoding-json-package/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/encoding-json-package/</guid>
       <description>Go Walkthrough 시리즈의 Go Walkthrough: encoding/json package 를 번역한 글입니다. 좋든 나쁘든, JSON은 인터넷의 인코딩이다. 이것의 공식적인 정의는 냅킨 뒷면에 쓸 수 있을 정도로 간단하지만 이는 문</description>
     </item>
     
     <item>
       <title>Golang의 내부, 2부: Go 컴파일러 들여다 보기</title>
-      <link>https://devbj.com/golangkorea/golang-internals/part2/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part2/</link>
       <pubDate>Thu, 15 Sep 2016 05:53:48 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/golang-internals/part2/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part2/</guid>
       <description>독자는 인터페이스 레퍼런스를 통해 변수를 사용할 경우 Go 런타임내에서 어떤 일이 있는지 정확하게 알고 있는가? 이 질문에 쉽게 답할 수 없는 이유는 어떤 인터페이스를 구</description>
     </item>
     
     <item>
       <title>Go의 주요 특징들</title>
-      <link>https://devbj.com/golangkorea/go-start/feature/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/go-start/feature/</link>
       <pubDate>Mon, 12 Sep 2016 13:10:03 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/go-start/feature/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/go-start/feature/</guid>
       <description>단순함 Go 언어는 단순함(simplicity)과 실용성(pragmatism)을 지향하는 언어로 이 두가지 철학이 다른 모든 것들 보다 상위에 있다. go 언어</description>
     </item>
     
     <item>
       <title>시리즈 #2 - 컨텐츠 제작 기초</title>
-      <link>https://devbj.com/golangkorea/hugo-intro/content-basic/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/content-basic/</link>
       <pubDate>Tue, 23 Aug 2016 23:25:04 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/hugo-intro/content-basic/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/content-basic/</guid>
       <description>컨텐츠 제작 기초 컨텐츠를 제작하면서 꼭 알아야 할 몇가지 개념을 정리하겠습니다. 컨텐츠의 조직적인 관리 (Organization) 사이트가 많은 양의 컨텐츠를 보유하게 되면서 조직적인 관</description>
     </item>
     
     <item>
       <title>Go 둘러보기 - encoding 패키지</title>
-      <link>https://devbj.com/golangkorea/go-walkthrough/encoding-package/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/encoding-package/</link>
       <pubDate>Wed, 09 Nov 2016 15:33:33 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/go-walkthrough/encoding-package/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/encoding-package/</guid>
       <description>Go Walkthrough 시리즈의 Go Walkthrough: encoding package 를 번역한 글입니다. 우리는 이제까지 로우(raw) 바이트 스트림 과 제한된 바이트 슬라이스 를 다뤄봤지만 단순히 바이트만을 사용하는 애플</description>
     </item>
     
     <item>
       <title>Go와 객체지향</title>
-      <link>https://devbj.com/golangkorea/go-start/object-oriented/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/go-start/object-oriented/</link>
       <pubDate>Sun, 02 Oct 2016 00:51:06 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/go-start/object-oriented/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/go-start/object-oriented/</guid>
       <description>객체지향 프로그래밍 Go는 클래스(Class)가 없다!! Struct가 Class의 역할을 수행 할 수 있기는 하지만 메서드도 구조체로부터 분리되는 구성을</description>
     </item>
     
     <item>
       <title>Golang의 내부, 3부: 링커, 오브젝트 파일, 그리고 재배치</title>
-      <link>https://devbj.com/golangkorea/golang-internals/part3/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part3/</link>
       <pubDate>Sat, 17 Sep 2016 16:20:29 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/golang-internals/part3/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part3/</guid>
       <description>오늘은 Go 링커와 오브젝트 파일, 그리고 재배치(relocations)에 대해 얘기해 보자. 이런 것들이 독자들과 무슨 상관이 있을까? 만약 독자가 어떤 대형 프</description>
     </item>
     
     <item>
       <title>시리즈 #3 - 사이트 테마 개발하기</title>
-      <link>https://devbj.com/golangkorea/hugo-intro/theme-customizing/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/theme-customizing/</link>
       <pubDate>Tue, 23 Aug 2016 23:25:30 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/hugo-intro/theme-customizing/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/theme-customizing/</guid>
       <description>사이트 테마 개발하기 시리즈 1 마지막에 hugo-octopress 테마를 사용하여 처음으로 사이트를 구축한 기억을 하실 겁니다. 사이트를 구축하기 전에 Hugo에서 사용할 수 있는 테마가</description>
     </item>
     
     <item>
       <title>Go 둘러보기 - io 패키지</title>
-      <link>https://devbj.com/golangkorea/go-walkthrough/io-package/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/io-package/</link>
       <pubDate>Wed, 26 Oct 2016 02:30:33 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/go-walkthrough/io-package/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/io-package/</guid>
       <description>Go Walkthrough 시리즈의 Go Walkthrough: io package 를 번역한 글입니다. Go는 바이트(bytes)를 사용하여 작업하기 위해 만들어진 프로그래밍 언어이다. 바이트의 리스트, 바이트의 스</description>
     </item>
     
     <item>
       <title>Golang의 내부, 4부: 오브젝트 파일, 그리고 함수 메타데이터</title>
-      <link>https://devbj.com/golangkorea/golang-internals/part4/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part4/</link>
       <pubDate>Sun, 18 Sep 2016 16:20:29 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/golang-internals/part4/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part4/</guid>
       <description>오늘은, Func 구조에 대해 좀 더 자세히 들여다 보고 어떻게 가비지 컬렉션이 작동하는지 몇가지 자세한 내용을 논하겠다. 이 포스트는 Golang의 내부, 3부: 링커,</description>
     </item>
     
     <item>
       <title>시리즈 #4 - 분류(Taxonomy)기능 사용하기</title>
-      <link>https://devbj.com/golangkorea/hugo-intro/taxonomy-basic/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/taxonomy-basic/</link>
       <pubDate>Tue, 23 Aug 2016 23:25:44 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/hugo-intro/taxonomy-basic/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/taxonomy-basic/</guid>
       <description>분류(Taxonomy)기능 사용하기 사이트에 컨텐트가 많아 질 수록 고민이 생깁니다. 비숫한 주제의 컨텐트를 한 곳에 나열해 주는 페이지를 만들수는 없는가? 순</description>
     </item>
     
     <item>
       <title>W600 SDK 소개</title>
-      <link>https://devbj.com/wizfi360/w600/</link>
+      <link>https://bjnhur.github.io/mydocs/wizfi360/w600/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/wizfi360/w600/</guid>
+      <guid>https://bjnhur.github.io/mydocs/wizfi360/w600/</guid>
       <description>Overview WizFi360 is based on the W600 chip which features ARM Cortex-M3 with 1MB on-chip flash and freeRTOS kernel. This page includes the software development kit (SDK) files, documents, and usage method. This SDK has integrated WizFi360 hardware driver (BSP), RTOS, TCP/IP protocol, Wi-Fi Protocol and other public function modules. Software SDK Official SDK from chip vendor Download link - WizFi360 Chip SDK (wm_sdk_w60x_g3.02.00_190729.zip) Software SDK User Manual Basic SDK</description>
     </item>
     
     <item>
       <title>Golang의 내부, 5부: 런타임 부트스트랩</title>
-      <link>https://devbj.com/golangkorea/golang-internals/part5/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part5/</link>
       <pubDate>Mon, 19 Sep 2016 16:20:29 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/golang-internals/part5/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part5/</guid>
       <description>부트스트래핑 과정은 Go의 런타임이 어떻게 작동하는지를 이해하는데 열쇠와 같은 구실을 한다. Go와 함께 앞으로 나아가고자 한다면 반드시 배워야한다. 그래서 G</description>
     </item>
     
     <item>
       <title>시리즈 #5 - 사이트에 블로그 올리는 방법</title>
-      <link>https://devbj.com/golangkorea/hugo-intro/how-to-contribute-content/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/how-to-contribute-content/</link>
       <pubDate>Tue, 23 Aug 2016 23:25:55 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/hugo-intro/how-to-contribute-content/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/how-to-contribute-content/</guid>
       <description>사이트에 블로그 올리는 방법 Golang Korean Community 사이트 는 깃헙의 golangkorea Organization의 웹사이트로 GitHub Pages 를 이용해 제작되고 있습니다. 현존하는 Static Site Generato</description>
     </item>
     
     <item>
       <title>Golang의 내부, 6부: 부트스트래핑과 메모리 할당자</title>
-      <link>https://devbj.com/golangkorea/golang-internals/part6/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part6/</link>
       <pubDate>Tue, 20 Sep 2016 16:20:29 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/golang-internals/part6/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part6/</guid>
       <description>이 포스트는 Golang 내부 시리즈의 연속이다. Go 런타임을 자세히 이해하는데 열쇠와 같은 부트스트랩 과정을 살펴볼 것이다. 이번에는 시작하는 순서의 두번째 부분을 섭렵해</description>
     </item>
     
     <item>
       <title>How to use</title>
-      <link>https://devbj.com/wiznetarduinoethernet/howtouse/</link>
+      <link>https://bjnhur.github.io/mydocs/wiznetarduinoethernet/howtouse/</link>
       <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
       
-      <guid>https://devbj.com/wiznetarduinoethernet/howtouse/</guid>
+      <guid>https://bjnhur.github.io/mydocs/wiznetarduinoethernet/howtouse/</guid>
       <description>[IPv6] How to use Arduino Ethernet Library IPv6 (WIZnet Ethernet Library) Arduino Ethernet Library - Default You already installed Arduino IDE, you can use Ethernet Library as default.
 Just you can run the Arduino IDE, and Choose File -&amp;gt; Examples -&amp;gt; Ethernet -&amp;gt; AdvancedChatServer.
 The following is default Ethernet Library Example AdvancedChatServer.
@@ -224,10 +224,10 @@ And the default User Library are located on &amp;ldquo;C:\Users&#39;Your ID&amp;
     
     <item>
       <title>W6100 IPv6 library</title>
-      <link>https://devbj.com/wiznetarduinoethernet/w6100/</link>
+      <link>https://bjnhur.github.io/mydocs/wiznetarduinoethernet/w6100/</link>
       <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
       
-      <guid>https://devbj.com/wiznetarduinoethernet/w6100/</guid>
+      <guid>https://bjnhur.github.io/mydocs/wiznetarduinoethernet/w6100/</guid>
       <description>W6100 IPv6 The IPv6 Branch.
 Test your IPv6 connectivity First, you should check your IPv6 network is available.
 Check your IPv6 connectivity  from ipv6-test.com(USA)    from test-ipv6.cz   Download WIZnet Ethernet Library Fork or download WIZnet Ethernet Library
@@ -239,47 +239,47 @@ MAC Address
     
     <item>
       <title>Golang의 내부, 0부: 부록</title>
-      <link>https://devbj.com/golangkorea/golang-internals/resources/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/resources/</link>
       <pubDate>Mon, 12 Sep 2016 13:18:28 -0400</pubDate>
       
-      <guid>https://devbj.com/golangkorea/golang-internals/resources/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/resources/</guid>
       <description>Go 언어의 최신 컴파일러에 대한 내용 GopherCon 2016: Rob Pike - The Design of the Go Assembler Video Slides GopherCon 2014 Go from C to Go by Russ Cox Video Slides GopherFest 2015: Rob Pike on the move from C to Go in the toolchain Video Slides Go의 어셈블러 A Quick Guide to Go&amp;rsquo;s Assembler</description>
     </item>
     
     <item>
       <title>git usage</title>
-      <link>https://devbj.com/til/gitusage/</link>
+      <link>https://bjnhur.github.io/mydocs/til/gitusage/</link>
       <pubDate>Wed, 04 Mar 2020 15:52:25 +0900</pubDate>
       
-      <guid>https://devbj.com/til/gitusage/</guid>
+      <guid>https://bjnhur.github.io/mydocs/til/gitusage/</guid>
       <description>본 문서는 Git 에서 자주 사용하는 명령어를 정리해 둔, https://github.com/jeonghwan-kim/git-usage 글을 가져온 것입니다. 추가로 사용하다가 정리할 부분이 있으면 수정하려고 합니다.저자에게 감사한 마음으로</description>
     </item>
     
     <item>
       <title>Button</title>
-      <link>https://devbj.com/blog/2020/button/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/button/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/button/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/button/</guid>
       <description>A button is a just a clickable button with optional icon. {{% button href=&amp;quot;https://getgrav.org/&amp;quot; %}}Get Grav{{% /button %}} {{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fas fa-download&amp;quot; %}}Get Grav with icon{{% /button %}} {{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fas fa-download&amp;quot; icon-position=&amp;quot;right&amp;quot; %}}Get Grav with icon right{{% /button %}} Get Grav Get Grav with icon Get Grav with icon right 북마크 테스트 (adsbygoogle = window.adsbygoogle || []).push({}); 아래글 문제 없</description>
     </item>
     
     <item>
       <title>Expand</title>
-      <link>https://devbj.com/blog/2020/expand/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/expand/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/expand/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/expand/</guid>
       <description>The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example
   Expand me...   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
       <title>Mermaid</title>
-      <link>https://devbj.com/blog/2020/mermaid/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/mermaid/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/mermaid/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/mermaid/</guid>
       <description>Mermaid is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.
 Just insert your mermaid code in the mermaid shortcode and that&amp;rsquo;s it.
 Flowchart example {{&amp;lt;mermaid align=&amp;quot;left&amp;quot;&amp;gt;}} graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] {{&amp;lt; /mermaid &amp;gt;}}  renders as
@@ -288,146 +288,146 @@ graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{Decision} C --|One| D[
     
     <item>
       <title>노션 페이지 복사하기</title>
-      <link>https://devbj.com/blog/2020/notionpagecopy/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2020/notionpagecopy/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2020/notionpagecopy/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2020/notionpagecopy/</guid>
       <description>노션 페이지 복사하기 생각보다 까다로움, 아예 저자가 공용으로 사용해라고 공유해둔 노션페이지는 그냥 Duplicate 메뉴가 있어서 누르면 끝!! 아래 예제 페이지 처럼 복제할 수</description>
     </item>
     
     <item>
       <title>IPv6 WebServer example with WIZnet W6100 chip</title>
-      <link>https://devbj.com/blog/2010/2019-03-05-webserver-adafruit/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2019-03-05-webserver-adafruit/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2019-03-05-webserver-adafruit/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2019-03-05-webserver-adafruit/</guid>
       <description>(Modified) 2019-03-03 WebServer Example WebServer-Adafruit (https://github.com/WIZnet-ArduinoEthernet/WebServer-Adafruit) W6100의 IPv4, IPv6 Dual Stack을 이용한 WebServer Example 입니다. Browser로 접속하면 Host의 IPv4 또는 IPv6 주소가 Adafruit의 OLED SSD130</description>
     </item>
     
     <item>
       <title>Embedded World 2019</title>
-      <link>https://devbj.com/blog/2010/2019-03-03-embeddedworld2019/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2019-03-03-embeddedworld2019/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2019-03-03-embeddedworld2019/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2019-03-03-embeddedworld2019/</guid>
       <description>(Modified) 2019-03-03 MCU 마이크로칩 클라우드 연동 모듈 신규 출시 30초만에 구성하는 클라우드 솔루션!! 이렇게 광고중 WiFi 모듈을 내장하고, 각 클라우드별 backend reference 를 기본 제공 쉽고 빠른</description>
     </item>
     
     <item>
       <title>The real products based on Arduino-Ethernet</title>
-      <link>https://devbj.com/blog/2010/2019-01-21-arduino-ethernet-products/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2019-01-21-arduino-ethernet-products/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2019-01-21-arduino-ethernet-products/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2019-01-21-arduino-ethernet-products/</guid>
       <description>(Modified) 2019-01-21 Value Added Products based on Arduino Ethernet Shield Arduino Adafruit Industries Sfera Labs S.r.l. DFRobot Elektronik Hannes Jochriem Parallax Inc Electric Imp Controllino Industruino KMP Electronics Ltd mikroe Tindie Arduino Ethernet을 기반으로 한 실제 상용화된 제품들을 소개해 본다. Value Added Products based on Arduino Ethernet Shield</description>
     </item>
     
     <item>
       <title>List of Arduino Ethernet Shield products</title>
-      <link>https://devbj.com/blog/2010/2019-01-15-arduino-ethernet-shield-list/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2019-01-15-arduino-ethernet-shield-list/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2019-01-15-arduino-ethernet-shield-list/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2019-01-15-arduino-ethernet-shield-list/</guid>
       <description>(Modified) 2019-01-15
  W6100  W5500  W5100S  W5100  W5200   Ethernet Shield List What is the &amp;ldquo;Ethernet Shield&amp;rdquo;?  The Arduino Ethernet Shield connects your Arduino to the internet in mere minutes. Just plug this module onto your Arduino board, connect it to your network with an RJ45 cable (not included) and follow a few simple instructions to start controlling your world through the internet. from Ethernet Shield</description>
     </item>
     
     <item>
       <title>The state of Arduino Ethernet Library</title>
-      <link>https://devbj.com/blog/2010/2019-01-15-arduino-ethernet/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2019-01-15-arduino-ethernet/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2019-01-15-arduino-ethernet/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2019-01-15-arduino-ethernet/</guid>
       <description>(Modified) 2019-01-15 최근 Arduino Ethernet Library 업데이트 내용과 유용한 몇개의 라이브러리와 관련 예제를 정리해 본다. 라이브러리 정보 최근 업데이트 된 라이브러리 Arduino Ethernet Library v2.0 - Arduino official Runtime</description>
     </item>
     
     <item>
       <title>드라마 - 미드</title>
-      <link>https://devbj.com/blog/2010/2016-08-05-drama/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2016-08-05-drama/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2016-08-05-drama/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2016-08-05-drama/</guid>
       <description>(수정시간) 2016-09-21 미드 House of cards - 하우스 오브 카드 Game of thrones - 왕좌의 게임 실리콘밸리 - Silicon Valley 슈츠 - Suits 지금까지 기억나는 추천 리스트 정리, 한편씩만 본 것들은 배제 미드 실</description>
     </item>
     
     <item>
       <title>Go에서 애플리케이션 설계하기</title>
-      <link>https://devbj.com/golangkorea/structuring-applications-in-go/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/structuring-applications-in-go/</link>
       <pubDate>Mon, 10 Oct 2016 21:11:16 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/structuring-applications-in-go/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/structuring-applications-in-go/</guid>
       <description>Structuring Applications in Go 을 번역한 글입니다. 개요 Go를 배울 때 가장 어려웠던 부분은 애플리케이션을 어떻게 설계하는가였다. Go 이전에, 나는 Rails 애플리케이션을 만들었었는데 R</description>
     </item>
     
     <item>
       <title>W5500 drivers</title>
-      <link>https://devbj.com/blog/2010/2016-09-07-w5500-drivers/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2016-09-07-w5500-drivers/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2016-09-07-w5500-drivers/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2016-09-07-w5500-drivers/</guid>
       <description>(수정시간) 2016-09-07 W5500 Driver open source projects - 오픈소스 AVR-ATmel LPC 시리즈 - NXP LPC11exxx &amp;hellip; W5500으로 이더넷 구현하기 (개발 환경 구축) STM32 시리즈 - ST Microelectronics PIC 시리즈 - Microchips PIC18, PIC24 &amp;hellip; PSoC 시리즈 - Cypress</description>
     </item>
     
     <item>
       <title>추천 토렌트 사이트 - torrent, 자료</title>
-      <link>https://devbj.com/blog/2010/2016-08-31-torrent/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2016-08-31-torrent/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2016-08-31-torrent/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2016-08-31-torrent/</guid>
       <description>(수정시간) 2016-08-31 추천 토렌트 사이트 기타 회원가입 없고, 광고가 적은 것으로 추천 토렌트 사이트 추천 정리 사이트</description>
     </item>
     
     <item>
       <title>vim-go를 이용한 go 개발 환경 구축</title>
-      <link>https://devbj.com/golangkorea/vim-go/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/vim-go/</link>
       <pubDate>Mon, 22 Aug 2016 22:57:14 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/vim-go/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/vim-go/</guid>
       <description>Vim Vim은 Emacs와 함께 (적어도 리눅스에서는) 가장 널리 사용하는 에디터일 것이다. 가볍고 빠르며, 어디에서나 실행되기 때문에 그 단순함에도 불구하고 여</description>
     </item>
     
     <item>
       <title>Golang 프로젝트에 TDD 도입하기</title>
-      <link>https://devbj.com/golangkorea/tdd-with-golang/</link>
+      <link>https://bjnhur.github.io/mydocs/golangkorea/tdd-with-golang/</link>
       <pubDate>Sat, 20 Aug 2016 12:15:44 +0900</pubDate>
       
-      <guid>https://devbj.com/golangkorea/tdd-with-golang/</guid>
+      <guid>https://bjnhur.github.io/mydocs/golangkorea/tdd-with-golang/</guid>
       <description>여기에서 사용한 테스트 코드는 Bitbucket 에서 다운로드 할 수 있다. TDD 클라우드와 MSA와 REST의 등장으로 TDD가 재조명 받고 있다. TDD를 제대로 적용하려면 상당</description>
     </item>
     
     <item>
       <title>영어 공부</title>
-      <link>https://devbj.com/blog/2010/2016-08-01-english/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2016-08-01-english/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2016-08-01-english/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2016-08-01-english/</guid>
       <description>(수정시간) 2016-09-21 영어학원 온라인영어 화상영어 블로그 만들면서 참고한 글을 정리해 본다. 영어학원 @수내역 랩스어학원 시간당 6만원 정도 물론 20시간씩 하면 15~20% 할</description>
     </item>
     
     <item>
       <title>Makefile 분석</title>
-      <link>https://devbj.com/blog/2010/2016-07-26-makefile/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2016-07-26-makefile/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2016-07-26-makefile/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2016-07-26-makefile/</guid>
       <description>(수정시간) 2016-07-26 마크다운 연습도 할 겸 아래글 내용을 가져옵니다. 오래된 글이라 새로 적어두는 것도 의미가 있진 않을까요? 개인용 블로그이니 조금 이해해 주시길..</description>
     </item>
     
     <item>
       <title>지킬 블로그 만들기 - jekyll, github, github pages</title>
-      <link>https://devbj.com/blog/2010/2016-07-21-move-to-jekyll/</link>
+      <link>https://bjnhur.github.io/mydocs/blog/2010/2016-07-21-move-to-jekyll/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/blog/2010/2016-07-21-move-to-jekyll/</guid>
+      <guid>https://bjnhur.github.io/mydocs/blog/2010/2016-07-21-move-to-jekyll/</guid>
       <description>(수정시간) 2016-08-08 지킬 기반의 블로그 리소스 블로그 만들면서 참고한 글을 정리해 본다. 지킬 기반의 블로그 카카오 기술 블로그 - 베껴오고 있음. 개인적으로 css 이런것도</description>
     </item>
     
     <item>
       <title>Notice 사용방법</title>
-      <link>https://devbj.com/hugolearntheme/notice/</link>
+      <link>https://bjnhur.github.io/mydocs/hugolearntheme/notice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devbj.com/hugolearntheme/notice/</guid>
+      <guid>https://bjnhur.github.io/mydocs/hugolearntheme/notice/</guid>
       <description>The notice shortcode shows 4 types of disclaimers to help you structure your page. Note {{% notice note %}} A notice disclaimer {{% /notice %}} renders as A notice disclaimer Info {{% notice info %}} An information disclaimer {{% /notice %}} renders as An information disclaimer Tip {{% notice tip %}} A tip disclaimer {{% /notice %}} renders as A tip disclaimer Warning {{% notice warning %}} A warning disclaimer</description>
     </item>
     

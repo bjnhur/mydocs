@@ -3,1038 +3,1038 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://devbj.com/til/gitintro/</loc>
+    <loc>https://bjnhur.github.io/mydocs/til/gitintro/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2020/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2020/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2020/2020-02-26-markdownwrite/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2020/2020-02-26-markdownwrite/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/wizfi360/</loc>
+    <loc>https://bjnhur.github.io/mydocs/wizfi360/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-walkthrough/bytes-strings-packages/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/bytes-strings-packages/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/golang-internals/part1/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part1/</loc>
     <lastmod>2016-09-13T13:18:28-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-start/getting-start/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-start/getting-start/</loc>
     <lastmod>2016-08-28T15:10:07+08:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/hugo-intro/getting-started/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/getting-started/</loc>
     <lastmod>2016-08-23T23:24:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-start/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-start/</loc>
     <lastmod>2016-08-23T22:35:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/hugolearntheme/mytips/</loc>
+    <loc>https://bjnhur.github.io/mydocs/hugolearntheme/mytips/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-walkthrough/encoding-json-package/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/encoding-json-package/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/golang-internals/part2/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part2/</loc>
     <lastmod>2016-09-15T05:53:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-start/feature/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-start/feature/</loc>
     <lastmod>2016-09-12T13:10:03+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/hugo-intro/content-basic/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/content-basic/</loc>
     <lastmod>2016-08-23T23:25:04-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-walkthrough/encoding-package/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/encoding-package/</loc>
     <lastmod>2016-11-09T15:33:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-start/object-oriented/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-start/object-oriented/</loc>
     <lastmod>2016-10-02T00:51:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/golang-internals/part3/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part3/</loc>
     <lastmod>2016-09-17T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/hugo-intro/theme-customizing/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/theme-customizing/</loc>
     <lastmod>2016-08-23T23:25:30-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-walkthrough/io-package/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/io-package/</loc>
     <lastmod>2016-10-26T02:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/golang-internals/part4/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part4/</loc>
     <lastmod>2016-09-18T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/hugo-intro/taxonomy-basic/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/taxonomy-basic/</loc>
     <lastmod>2016-08-23T23:25:44-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/wizfi360/w600/</loc>
+    <loc>https://bjnhur.github.io/mydocs/wizfi360/w600/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/golang-internals/part5/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part5/</loc>
     <lastmod>2016-09-19T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/hugo-intro/how-to-contribute-content/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/how-to-contribute-content/</loc>
     <lastmod>2016-08-23T23:25:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/wizfi360/docs/</loc>
+    <loc>https://bjnhur.github.io/mydocs/wizfi360/docs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/golang-internals/part6/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/part6/</loc>
     <lastmod>2016-09-20T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/bookmark/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/bookmark/</loc>
     <lastmod>2020-02-19T20:01:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/til/</loc>
+    <loc>https://bjnhur.github.io/mydocs/til/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/go-walkthrough/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/go-walkthrough/</loc>
     <lastmod>2016-08-23T22:35:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/wizfi360/wizfi360-evb/</loc>
+    <loc>https://bjnhur.github.io/mydocs/wizfi360/wizfi360-evb/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/wiznetarduinoethernet/howtouse/</loc>
+    <loc>https://bjnhur.github.io/mydocs/wiznetarduinoethernet/howtouse/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/wiznetarduinoethernet/</loc>
+    <loc>https://bjnhur.github.io/mydocs/wiznetarduinoethernet/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/golang-internals/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/</loc>
     <lastmod>2016-08-23T22:35:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/wiznetarduinoethernet/w6100/</loc>
+    <loc>https://bjnhur.github.io/mydocs/wiznetarduinoethernet/w6100/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/hugo-intro/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/hugo-intro/</loc>
     <lastmod>2016-08-23T22:35:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/golang-internals/resources/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/golang-internals/resources/</loc>
     <lastmod>2016-09-12T13:18:28-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/hugolearntheme/</loc>
+    <loc>https://bjnhur.github.io/mydocs/hugolearntheme/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/</loc>
     <lastmod>2016-08-19T23:35:49-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/git/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/git/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/github/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/github/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/</loc>
+    <loc>https://bjnhur.github.io/mydocs/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/howto/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/howto/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/learn/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/learn/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/tutorial/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/tutorial/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/arduino/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/arduino/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/arduino/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/arduino/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/ethernet/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/ethernet/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/ethernet/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/ethernet/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/til/gitusage/</loc>
+    <loc>https://bjnhur.github.io/mydocs/til/gitusage/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/ipv6/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/ipv6/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/til/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/til/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/w6100/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/w6100/</loc>
     <lastmod>2020-03-04T15:52:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2020/button/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2020/button/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2020/expand/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2020/expand/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2020/mermaid/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2020/mermaid/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2020/notionpagecopy/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2020/notionpagecopy/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2019-03-05-webserver-adafruit/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2019-03-05-webserver-adafruit/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/wiznet/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/wiznet/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2019-03-03-embeddedworld2019/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2019-03-03-embeddedworld2019/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/ew19/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/ew19/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2019-01-21-arduino-ethernet-products/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2019-01-21-arduino-ethernet-products/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/w5100/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/w5100/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/w5500/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/w5500/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2019-01-15-arduino-ethernet-shield-list/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2019-01-15-arduino-ethernet-shield-list/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2019-01-15-arduino-ethernet/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2019-01-15-arduino-ethernet/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/w5100s/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/w5100s/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/%EB%93%9C%EB%9D%BC%EB%A7%88/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/%EB%93%9C%EB%9D%BC%EB%A7%88/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2016-08-05-drama/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2016-08-05-drama/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/%EB%AF%B8%EB%93%9C/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/%EB%AF%B8%EB%93%9C/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/%EC%98%81%ED%99%94/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/%EC%98%81%ED%99%94/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/encoding/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/encoding/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/encoding/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/encoding/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/golang/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/golang/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/%EB%B2%88%EC%97%AD/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/%EB%B2%88%EC%97%AD/</loc>
     <lastmod>2016-12-03T01:02:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/bytes/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/bytes/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/bytes/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/package/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/package/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/strings/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/strings/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/strings/</loc>
     <lastmod>2016-11-02T18:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/io/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/io/</loc>
     <lastmod>2016-10-26T02:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/io/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/io/</loc>
     <lastmod>2016-10-26T02:30:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/structuring-applications-in-go/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/structuring-applications-in-go/</loc>
     <lastmod>2016-10-10T21:11:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/%EB%B2%88%EC%97%AD/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/%EB%B2%88%EC%97%AD/</loc>
     <lastmod>2016-10-10T21:11:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/</loc>
     <lastmod>2016-10-10T21:11:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90/</loc>
     <lastmod>2016-10-10T21:11:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/how-to/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/how-to/</loc>
     <lastmod>2016-10-02T00:51:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/object-oriented/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/object-oriented/</loc>
     <lastmod>2016-10-02T00:51:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/struct/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/struct/</loc>
     <lastmod>2016-10-02T00:51:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/allocator/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/allocator/</loc>
     <lastmod>2016-09-20T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/bootstrap/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/bootstrap/</loc>
     <lastmod>2016-09-20T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/internals/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/internals/</loc>
     <lastmod>2016-09-20T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/memory/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/memory/</loc>
     <lastmod>2016-09-20T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/runtime/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/runtime/</loc>
     <lastmod>2016-09-20T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/%ED%95%B5%ED%82%B9/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/%ED%95%B5%ED%82%B9/</loc>
     <lastmod>2016-09-20T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/linker/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/linker/</loc>
     <lastmod>2016-09-18T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/metadata/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/metadata/</loc>
     <lastmod>2016-09-18T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/object-file/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/object-file/</loc>
     <lastmod>2016-09-18T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/relocations/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/relocations/</loc>
     <lastmod>2016-09-18T16:20:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/compiler/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/compiler/</loc>
     <lastmod>2016-09-15T05:53:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/structure/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/structure/</loc>
     <lastmod>2016-09-15T05:53:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/assembler/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/assembler/</loc>
     <lastmod>2016-09-12T13:18:28-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/beginning/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/beginning/</loc>
     <lastmod>2016-09-12T13:10:03+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/avr/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/avr/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/develop/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/develop/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/driver/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/driver/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/embedded/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/embedded/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/f/w/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/f/w/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/iot/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/iot/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/it/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/it/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/mbed/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/mbed/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/s/w/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/s/w/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2016-09-07-w5500-drivers/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2016-09-07-w5500-drivers/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/drama/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/drama/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/movie/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/movie/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/tool/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/tool/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/torrent/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/torrent/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/util/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/util/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2016-08-31-torrent/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2016-08-31-torrent/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/%ED%86%A0%EB%A0%8C%ED%8A%B8/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/%ED%86%A0%EB%A0%8C%ED%8A%B8/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/install/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/install/</loc>
     <lastmod>2016-08-28T15:10:07+08:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/blog/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/blog/</loc>
     <lastmod>2016-08-23T23:25:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/hugo/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/hugo/</loc>
     <lastmod>2016-08-23T23:25:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/development/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/development/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/development/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/development/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/vim/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/vim/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/vim/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/vim-go/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/vim-go/</loc>
     <lastmod>2016-08-22T22:57:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/golangkorea/tdd-with-golang/</loc>
+    <loc>https://bjnhur.github.io/mydocs/golangkorea/tdd-with-golang/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/tdd/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/tdd/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/tdd/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/tdd/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/categories/unittest/</loc>
+    <loc>https://bjnhur.github.io/mydocs/categories/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/unittest/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/unittest/</loc>
     <lastmod>2016-08-20T12:15:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/english/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/english/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/%EC%98%81%EC%96%B4/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/%EC%98%81%EC%96%B4/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2016-08-01-english/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2016-08-01-english/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/build/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/build/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/c/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/c/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/c&#43;&#43;/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/c&#43;&#43;/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/compile/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/compile/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/jekyll/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/jekyll/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/tags/makefile/</loc>
+    <loc>https://bjnhur.github.io/mydocs/tags/makefile/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2016-07-26-makefile/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2016-07-26-makefile/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/blog/2010/2016-07-21-move-to-jekyll/</loc>
+    <loc>https://bjnhur.github.io/mydocs/blog/2010/2016-07-21-move-to-jekyll/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/hugolearntheme/notice/</loc>
+    <loc>https://bjnhur.github.io/mydocs/hugolearntheme/notice/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://devbj.com/subcategories/</loc>
+    <loc>https://bjnhur.github.io/mydocs/subcategories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bookmark on DevBJ.com</title>
-    <link>https://devbj.com/blog/bookmark/</link>
-    <description>Recent content in Bookmark on DevBJ.com</description>
+    <title>Bookmark on DevBJ.com Documentation</title>
+    <link>https://bjnhur.github.io/mydocs/blog/bookmark/</link>
+    <description>Recent content in Bookmark on DevBJ.com Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 19 Feb 2020 20:01:43 +0900</lastBuildDate>
     
-	<atom:link href="https://devbj.com/blog/bookmark/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bjnhur.github.io/mydocs/blog/bookmark/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
