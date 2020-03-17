@@ -1,10 +1,10 @@
-baseURL = "https://devbj.com/"
+baseURL = "https://bjnhur.github.io/mydocs/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 hasCJKLanguage = true
 summaryLength = 70
 
-title = "DevBJ.com"
+title = "DevBJ.com Documentation"
 theme = "hugo-theme-learn"
 #themesdir = "."
 metaDataFormat = "yaml"
